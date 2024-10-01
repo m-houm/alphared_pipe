@@ -1,0 +1,1533 @@
+Stats for job: 1AK4_b_00011
+level    2 temperature 1.50           HX_2_3 trials=      1;  accepts= 1.0000; 
+level    3 temperature 3.00           HX_3_2 trials=      3 NO ACCEPTS.
+Stats for job: 1AK4_b_00011
+level    1 temperature 0.80           HX_1_2 trials=      2;  accepts= 0.5000; 
+level    2 temperature 1.50           HX_2_1 trials=      2 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+Stats for job: 1AK4_b_00011
+level    1 temperature 0.80           HX_1_2 trials=      3 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_1 trials=      2;  accepts= 0.5000; 
+level    2 temperature 1.50           HX_2_3 trials=      1 NO ACCEPTS.
+level    3 temperature 3.00           HX_3_2 trials=      1;  accepts= 1.0000; 
+Stats for job: 1AK4_b_00012
+level    1 temperature 0.80           HX_1_2 trials=      2;  accepts= 0.5000; 
+level    2 temperature 1.50           HX_2_1 trials=      2 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      4 NO ACCEPTS.
+Stats for job: 1AK4_b_00012
+level    2 temperature 1.50           HX_2_1 trials=      5;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_3 trials=      5;  accepts= 0.2000; 
+level    3 temperature 3.00           HX_3_2 trials=      4;  accepts= 0.2500; 
+Stats for job: 1AK4_b_00012
+level    1 temperature 0.80           HX_1_2 trials=      7;  accepts= 0.1429; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.6667; 
+level    2 temperature 1.50           HX_2_3 trials=      2 NO ACCEPTS.
+level    3 temperature 3.00           HX_3_2 trials=      1;  accepts= 1.0000; 
+Stats for job: 1AK4_b_00013
+level    1 temperature 0.80           HX_1_2 trials=      5;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_00013
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=      5;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_3 trials=      6;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      7;  accepts= 0.1429; 
+Stats for job: 1AK4_b_00013
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=      7;  accepts= 0.2857; 
+level    2 temperature 1.50           HX_2_3 trials=      7 NO ACCEPTS.
+level    3 temperature 3.00           HX_3_2 trials=      1;  accepts= 1.0000; 
+Stats for job: 1AK4_b_00014
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=      5;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_3 trials=      6;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=     12;  accepts= 0.1667; 
+Stats for job: 1AK4_b_00014
+level    1 temperature 0.80           HX_1_2 trials=     10;  accepts= 0.1000; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_00014
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=      3;  accepts= 0.3333; 
+Stats for job: 1AK4_b_00015
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.1000; 
+level    2 temperature 1.50           HX_2_3 trials=     11;  accepts= 0.1818; 
+level    3 temperature 3.00           HX_3_2 trials=     12;  accepts= 0.1667; 
+Stats for job: 1AK4_b_00015
+level    1 temperature 0.80           HX_1_2 trials=     15;  accepts= 0.0667; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_00015
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=      8;  accepts= 0.1250; 
+Stats for job: 1AK4_b_00016
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.0667; 
+level    2 temperature 1.50           HX_2_3 trials=     16;  accepts= 0.1250; 
+level    3 temperature 3.00           HX_3_2 trials=     12;  accepts= 0.1667; 
+Stats for job: 1AK4_b_00016
+level    1 temperature 0.80           HX_1_2 trials=     20;  accepts= 0.0500; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_00016
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=     12;  accepts= 0.0833; 
+Stats for job: 1AK4_b_00017
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     20;  accepts= 0.0500; 
+level    2 temperature 1.50           HX_2_3 trials=     21;  accepts= 0.0952; 
+level    3 temperature 3.00           HX_3_2 trials=     12;  accepts= 0.1667; 
+Stats for job: 1AK4_b_00017
+level    1 temperature 0.80           HX_1_2 trials=     25;  accepts= 0.0400; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_00017
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=     17;  accepts= 0.0588; 
+Stats for job: 1AK4_b_00018
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     25;  accepts= 0.0400; 
+level    2 temperature 1.50           HX_2_3 trials=     26;  accepts= 0.0769; 
+level    3 temperature 3.00           HX_3_2 trials=     12;  accepts= 0.1667; 
+Stats for job: 1AK4_b_00018
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=     21;  accepts= 0.0476; 
+Stats for job: 1AK4_b_00018
+level    1 temperature 0.80           HX_1_2 trials=     31;  accepts= 0.0323; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_00019
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     30;  accepts= 0.0333; 
+level    2 temperature 1.50           HX_2_3 trials=     31;  accepts= 0.0645; 
+level    3 temperature 3.00           HX_3_2 trials=     12;  accepts= 0.1667; 
+Stats for job: 1AK4_b_00019
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=     26;  accepts= 0.0385; 
+Stats for job: 1AK4_b_00019
+level    1 temperature 0.80           HX_1_2 trials=     36;  accepts= 0.0278; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000110
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=     30;  accepts= 0.0333; 
+Stats for job: 1AK4_b_000110
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     35;  accepts= 0.0286; 
+level    2 temperature 1.50           HX_2_3 trials=     36;  accepts= 0.0556; 
+level    3 temperature 3.00           HX_3_2 trials=     12;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000110
+level    1 temperature 0.80           HX_1_2 trials=     41;  accepts= 0.0244; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000111
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     11;  accepts= 0.1818; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=     35;  accepts= 0.0571; 
+Stats for job: 1AK4_b_000111
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     39;  accepts= 0.0256; 
+level    2 temperature 1.50           HX_2_3 trials=     40;  accepts= 0.0750; 
+level    3 temperature 3.00           HX_3_2 trials=     13;  accepts= 0.1538; 
+Stats for job: 1AK4_b_000111
+level    1 temperature 0.80           HX_1_2 trials=     46;  accepts= 0.0217; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000112
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     39;  accepts= 0.0256; 
+level    2 temperature 1.50           HX_2_3 trials=     40;  accepts= 0.0750; 
+level    3 temperature 3.00           HX_3_2 trials=     17;  accepts= 0.1176; 
+Stats for job: 1AK4_b_000112
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     16;  accepts= 0.1250; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.0667; 
+level    3 temperature 3.00           HX_3_2 trials=     35;  accepts= 0.0571; 
+Stats for job: 1AK4_b_000112
+level    1 temperature 0.80           HX_1_2 trials=     51;  accepts= 0.0196; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000113
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     39;  accepts= 0.0256; 
+level    2 temperature 1.50           HX_2_3 trials=     40;  accepts= 0.0750; 
+level    3 temperature 3.00           HX_3_2 trials=     21;  accepts= 0.0952; 
+Stats for job: 1AK4_b_000113
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     20;  accepts= 0.1000; 
+level    2 temperature 1.50           HX_2_3 trials=     20;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=     35;  accepts= 0.0571; 
+Stats for job: 1AK4_b_000113
+level    1 temperature 0.80           HX_1_2 trials=     56;  accepts= 0.0179; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000114
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     43;  accepts= 0.0233; 
+level    2 temperature 1.50           HX_2_3 trials=     44;  accepts= 0.0682; 
+level    3 temperature 3.00           HX_3_2 trials=     22;  accepts= 0.1364; 
+Stats for job: 1AK4_b_000114
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     20;  accepts= 0.1000; 
+level    2 temperature 1.50           HX_2_3 trials=     20;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=     40;  accepts= 0.0500; 
+Stats for job: 1AK4_b_000114
+level    1 temperature 0.80           HX_1_2 trials=     62;  accepts= 0.0161; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000115
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     46;  accepts= 0.0217; 
+level    2 temperature 1.50           HX_2_3 trials=     47;  accepts= 0.0851; 
+level    3 temperature 3.00           HX_3_2 trials=     24;  accepts= 0.1250; 
+Stats for job: 1AK4_b_000115
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     24;  accepts= 0.0833; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     42;  accepts= 0.0714; 
+Stats for job: 1AK4_b_000116
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     46;  accepts= 0.0217; 
+level    2 temperature 1.50           HX_2_3 trials=     47;  accepts= 0.0851; 
+level    3 temperature 3.00           HX_3_2 trials=     28;  accepts= 0.1071; 
+Stats for job: 1AK4_b_000115
+level    1 temperature 0.80           HX_1_2 trials=     67;  accepts= 0.0149; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000116
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     29;  accepts= 0.0690; 
+level    2 temperature 1.50           HX_2_3 trials=     28;  accepts= 0.0714; 
+level    3 temperature 3.00           HX_3_2 trials=     42;  accepts= 0.0714; 
+Stats for job: 1AK4_b_000117
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     46;  accepts= 0.0217; 
+level    2 temperature 1.50           HX_2_3 trials=     47;  accepts= 0.0851; 
+level    3 temperature 3.00           HX_3_2 trials=     32;  accepts= 0.0938; 
+Stats for job: 1AK4_b_000116
+level    1 temperature 0.80           HX_1_2 trials=     72;  accepts= 0.0139; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000117
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     34;  accepts= 0.0588; 
+level    2 temperature 1.50           HX_2_3 trials=     33;  accepts= 0.0606; 
+level    3 temperature 3.00           HX_3_2 trials=     42;  accepts= 0.0714; 
+Stats for job: 1AK4_b_000118
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0213; 
+level    2 temperature 1.50           HX_2_3 trials=     48;  accepts= 0.1042; 
+level    3 temperature 3.00           HX_3_2 trials=     36;  accepts= 0.1111; 
+Stats for job: 1AK4_b_000117
+level    1 temperature 0.80           HX_1_2 trials=     78;  accepts= 0.0128; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000118
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     36;  accepts= 0.0556; 
+level    2 temperature 1.50           HX_2_3 trials=     35;  accepts= 0.1143; 
+level    3 temperature 3.00           HX_3_2 trials=     45;  accepts= 0.1111; 
+Stats for job: 1AK4_b_000119
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     50;  accepts= 0.0200; 
+level    2 temperature 1.50           HX_2_3 trials=     51;  accepts= 0.1373; 
+level    3 temperature 3.00           HX_3_2 trials=     38;  accepts= 0.1579; 
+Stats for job: 1AK4_b_000118
+level    1 temperature 0.80           HX_1_2 trials=     83;  accepts= 0.0120; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000119
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     37;  accepts= 0.0541; 
+level    2 temperature 1.50           HX_2_3 trials=     37;  accepts= 0.1622; 
+level    3 temperature 3.00           HX_3_2 trials=     48;  accepts= 0.1250; 
+Stats for job: 1AK4_b_000120
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     55;  accepts= 0.0182; 
+level    2 temperature 1.50           HX_2_3 trials=     55;  accepts= 0.1273; 
+level    3 temperature 3.00           HX_3_2 trials=     39;  accepts= 0.1795; 
+Stats for job: 1AK4_b_000119
+level    1 temperature 0.80           HX_1_2 trials=     88;  accepts= 0.0114; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000120
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     39;  accepts= 0.0513; 
+level    2 temperature 1.50           HX_2_3 trials=     39;  accepts= 0.1538; 
+level    3 temperature 3.00           HX_3_2 trials=     52;  accepts= 0.1346; 
+Stats for job: 1AK4_b_000121
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     56;  accepts= 0.0179; 
+level    2 temperature 1.50           HX_2_3 trials=     57;  accepts= 0.1404; 
+level    3 temperature 3.00           HX_3_2 trials=     42;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000120
+level    1 temperature 0.80           HX_1_2 trials=     93;  accepts= 0.0108; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000121
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     44;  accepts= 0.0455; 
+level    2 temperature 1.50           HX_2_3 trials=     44;  accepts= 0.1591; 
+level    3 temperature 3.00           HX_3_2 trials=     52;  accepts= 0.1346; 
+Stats for job: 1AK4_b_000122
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     57;  accepts= 0.0175; 
+level    2 temperature 1.50           HX_2_3 trials=     58;  accepts= 0.1379; 
+level    3 temperature 3.00           HX_3_2 trials=     46;  accepts= 0.1739; 
+Stats for job: 1AK4_b_000121
+level    1 temperature 0.80           HX_1_2 trials=     99;  accepts= 0.0101; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000122
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     46;  accepts= 0.0435; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     55;  accepts= 0.1455; 
+Stats for job: 1AK4_b_000123
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     60;  accepts= 0.0167; 
+level    2 temperature 1.50           HX_2_3 trials=     61;  accepts= 0.1475; 
+level    3 temperature 3.00           HX_3_2 trials=     48;  accepts= 0.1875; 
+Stats for job: 1AK4_b_000122
+level    1 temperature 0.80           HX_1_2 trials=    104;  accepts= 0.0096; 
+level    2 temperature 1.50           HX_2_1 trials=      3;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      3;  accepts= 0.3333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000123
+level    1 temperature 0.80           HX_1_2 trials=      8;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_1 trials=     46;  accepts= 0.0435; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     60;  accepts= 0.1333; 
+Stats for job: 1AK4_b_000124
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     65;  accepts= 0.0154; 
+level    2 temperature 1.50           HX_2_3 trials=     66;  accepts= 0.1364; 
+level    3 temperature 3.00           HX_3_2 trials=     48;  accepts= 0.1875; 
+Stats for job: 1AK4_b_000123
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=      5;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_3 trials=      5;  accepts= 0.2000; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000124
+level    1 temperature 0.80           HX_1_2 trials=     10;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000125
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     66;  accepts= 0.0152; 
+level    2 temperature 1.50           HX_2_3 trials=     67;  accepts= 0.1493; 
+level    3 temperature 3.00           HX_3_2 trials=     51;  accepts= 0.1765; 
+Stats for job: 1AK4_b_000126
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     66;  accepts= 0.0152; 
+level    2 temperature 1.50           HX_2_3 trials=     67;  accepts= 0.1493; 
+level    3 temperature 3.00           HX_3_2 trials=     55;  accepts= 0.1636; 
+Stats for job: 1AK4_b_000124
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.1000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000125
+level    1 temperature 0.80           HX_1_2 trials=     15;  accepts= 0.1333; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000127
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     66;  accepts= 0.0152; 
+level    2 temperature 1.50           HX_2_3 trials=     67;  accepts= 0.1493; 
+level    3 temperature 3.00           HX_3_2 trials=     59;  accepts= 0.1525; 
+Stats for job: 1AK4_b_000125
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.0667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.0667; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000126
+level    1 temperature 0.80           HX_1_2 trials=     21;  accepts= 0.0952; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000128
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     66;  accepts= 0.0152; 
+level    2 temperature 1.50           HX_2_3 trials=     67;  accepts= 0.1493; 
+level    3 temperature 3.00           HX_3_2 trials=     64;  accepts= 0.1406; 
+Stats for job: 1AK4_b_000126
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=     20;  accepts= 0.0500; 
+level    2 temperature 1.50           HX_2_3 trials=     20;  accepts= 0.0500; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000127
+level    1 temperature 0.80           HX_1_2 trials=     26;  accepts= 0.0769; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000129
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     66;  accepts= 0.0152; 
+level    2 temperature 1.50           HX_2_3 trials=     67;  accepts= 0.1493; 
+level    3 temperature 3.00           HX_3_2 trials=     69;  accepts= 0.1304; 
+Stats for job: 1AK4_b_000127
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=     25;  accepts= 0.0400; 
+level    2 temperature 1.50           HX_2_3 trials=     25;  accepts= 0.0400; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000128
+level    1 temperature 0.80           HX_1_2 trials=     31;  accepts= 0.0645; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000130
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     66;  accepts= 0.0152; 
+level    2 temperature 1.50           HX_2_3 trials=     67;  accepts= 0.1493; 
+level    3 temperature 3.00           HX_3_2 trials=     74;  accepts= 0.1216; 
+Stats for job: 1AK4_b_000128
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=     30;  accepts= 0.0333; 
+level    2 temperature 1.50           HX_2_3 trials=     30;  accepts= 0.0333; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000129
+level    1 temperature 0.80           HX_1_2 trials=     36;  accepts= 0.0556; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000131
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     66;  accepts= 0.0152; 
+level    2 temperature 1.50           HX_2_3 trials=     67;  accepts= 0.1493; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.1154; 
+Stats for job: 1AK4_b_000129
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=     35;  accepts= 0.0286; 
+level    2 temperature 1.50           HX_2_3 trials=     35;  accepts= 0.0286; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000132
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     66;  accepts= 0.0152; 
+level    2 temperature 1.50           HX_2_3 trials=     67;  accepts= 0.1493; 
+level    3 temperature 3.00           HX_3_2 trials=     82;  accepts= 0.1098; 
+Stats for job: 1AK4_b_000130
+level    1 temperature 0.80           HX_1_2 trials=     41;  accepts= 0.0488; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000130
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=     40;  accepts= 0.0250; 
+level    2 temperature 1.50           HX_2_3 trials=     40;  accepts= 0.0250; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000133
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     66;  accepts= 0.0152; 
+level    2 temperature 1.50           HX_2_3 trials=     67;  accepts= 0.1493; 
+level    3 temperature 3.00           HX_3_2 trials=     86;  accepts= 0.1047; 
+Stats for job: 1AK4_b_000131
+level    1 temperature 0.80           HX_1_2 trials=     46;  accepts= 0.0435; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000134
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     66;  accepts= 0.0152; 
+level    2 temperature 1.50           HX_2_3 trials=     67;  accepts= 0.1493; 
+level    3 temperature 3.00           HX_3_2 trials=     90;  accepts= 0.1000; 
+Stats for job: 1AK4_b_000131
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=     45;  accepts= 0.0222; 
+level    2 temperature 1.50           HX_2_3 trials=     45;  accepts= 0.0222; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000132
+level    1 temperature 0.80           HX_1_2 trials=     51;  accepts= 0.0392; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000135
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     66;  accepts= 0.0152; 
+level    2 temperature 1.50           HX_2_3 trials=     67;  accepts= 0.1493; 
+level    3 temperature 3.00           HX_3_2 trials=     95;  accepts= 0.0947; 
+Stats for job: 1AK4_b_000132
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=     50;  accepts= 0.0200; 
+level    2 temperature 1.50           HX_2_3 trials=     50;  accepts= 0.0200; 
+level    3 temperature 3.00           HX_3_2 trials=      6;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000133
+level    1 temperature 0.80           HX_1_2 trials=     56;  accepts= 0.0357; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000136
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     67;  accepts= 0.0149; 
+level    2 temperature 1.50           HX_2_3 trials=     67;  accepts= 0.1493; 
+level    3 temperature 3.00           HX_3_2 trials=     99;  accepts= 0.1010; 
+Stats for job: 1AK4_b_000133
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=     53;  accepts= 0.0189; 
+level    2 temperature 1.50           HX_2_3 trials=     54;  accepts= 0.0370; 
+level    3 temperature 3.00           HX_3_2 trials=      7;  accepts= 0.1429; 
+Stats for job: 1AK4_b_000134
+level    1 temperature 0.80           HX_1_2 trials=     61;  accepts= 0.0328; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000137
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     72;  accepts= 0.0139; 
+level    2 temperature 1.50           HX_2_3 trials=     72;  accepts= 0.1389; 
+level    3 temperature 3.00           HX_3_2 trials=     99;  accepts= 0.1010; 
+Stats for job: 1AK4_b_000134
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=     53;  accepts= 0.0189; 
+level    2 temperature 1.50           HX_2_3 trials=     54;  accepts= 0.0370; 
+level    3 temperature 3.00           HX_3_2 trials=     12;  accepts= 0.0833; 
+Stats for job: 1AK4_b_000135
+level    1 temperature 0.80           HX_1_2 trials=     67;  accepts= 0.0299; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000138
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     76;  accepts= 0.0132; 
+level    2 temperature 1.50           HX_2_3 trials=     76;  accepts= 0.1447; 
+level    3 temperature 3.00           HX_3_2 trials=    100;  accepts= 0.1100; 
+Stats for job: 1AK4_b_000135
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=     54;  accepts= 0.0185; 
+level    2 temperature 1.50           HX_2_3 trials=     55;  accepts= 0.0545; 
+level    3 temperature 3.00           HX_3_2 trials=     16;  accepts= 0.1250; 
+Stats for job: 1AK4_b_000136
+level    1 temperature 0.80           HX_1_2 trials=     72;  accepts= 0.0278; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000139
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     78;  accepts= 0.0128; 
+level    2 temperature 1.50           HX_2_3 trials=     78;  accepts= 0.1538; 
+level    3 temperature 3.00           HX_3_2 trials=    103;  accepts= 0.1165; 
+Stats for job: 1AK4_b_000136
+level    1 temperature 0.80           HX_1_2 trials=    107;  accepts= 0.0187; 
+level    2 temperature 1.50           HX_2_1 trials=     57;  accepts= 0.0175; 
+level    2 temperature 1.50           HX_2_3 trials=     58;  accepts= 0.0690; 
+level    3 temperature 3.00           HX_3_2 trials=     18;  accepts= 0.1667; 
+Stats for job: 1AK4_b_000137
+level    1 temperature 0.80           HX_1_2 trials=     77;  accepts= 0.0260; 
+level    2 temperature 1.50           HX_2_1 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.1739; 
+level    3 temperature 3.00           HX_3_2 trials=     62;  accepts= 0.1452; 
+Stats for job: 1AK4_b_000140
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     80;  accepts= 0.0125; 
+level    2 temperature 1.50           HX_2_3 trials=     81;  accepts= 0.1728; 
+level    3 temperature 3.00           HX_3_2 trials=    105;  accepts= 0.1238; 
+Stats for job: 1AK4_b_000137
+level    1 temperature 0.80           HX_1_2 trials=    108;  accepts= 0.0185; 
+level    2 temperature 1.50           HX_2_1 trials=     60;  accepts= 0.0333; 
+level    2 temperature 1.50           HX_2_3 trials=     60;  accepts= 0.0833; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000138
+level    1 temperature 0.80           HX_1_2 trials=     79;  accepts= 0.0380; 
+level    2 temperature 1.50           HX_2_1 trials=     48;  accepts= 0.0625; 
+level    2 temperature 1.50           HX_2_3 trials=     48;  accepts= 0.1875; 
+level    3 temperature 3.00           HX_3_2 trials=     63;  accepts= 0.1429; 
+Stats for job: 1AK4_b_000141
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     84;  accepts= 0.0119; 
+level    2 temperature 1.50           HX_2_3 trials=     84;  accepts= 0.1667; 
+level    3 temperature 3.00           HX_3_2 trials=    107;  accepts= 0.1308; 
+Stats for job: 1AK4_b_000138
+level    1 temperature 0.80           HX_1_2 trials=    112;  accepts= 0.0179; 
+level    2 temperature 1.50           HX_2_1 trials=     60;  accepts= 0.0333; 
+level    2 temperature 1.50           HX_2_3 trials=     60;  accepts= 0.0833; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000139
+level    1 temperature 0.80           HX_1_2 trials=     79;  accepts= 0.0380; 
+level    2 temperature 1.50           HX_2_1 trials=     48;  accepts= 0.0625; 
+level    2 temperature 1.50           HX_2_3 trials=     48;  accepts= 0.1875; 
+level    3 temperature 3.00           HX_3_2 trials=     68;  accepts= 0.1324; 
+Stats for job: 1AK4_b_000142
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     89;  accepts= 0.0112; 
+level    2 temperature 1.50           HX_2_3 trials=     89;  accepts= 0.1573; 
+level    3 temperature 3.00           HX_3_2 trials=    107;  accepts= 0.1308; 
+Stats for job: 1AK4_b_000139
+level    1 temperature 0.80           HX_1_2 trials=    117;  accepts= 0.0171; 
+level    2 temperature 1.50           HX_2_1 trials=     60;  accepts= 0.0333; 
+level    2 temperature 1.50           HX_2_3 trials=     60;  accepts= 0.0833; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000140
+level    1 temperature 0.80           HX_1_2 trials=     79;  accepts= 0.0380; 
+level    2 temperature 1.50           HX_2_1 trials=     48;  accepts= 0.0625; 
+level    2 temperature 1.50           HX_2_3 trials=     48;  accepts= 0.1875; 
+level    3 temperature 3.00           HX_3_2 trials=     73;  accepts= 0.1233; 
+Stats for job: 1AK4_b_000143
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     94;  accepts= 0.0106; 
+level    2 temperature 1.50           HX_2_3 trials=     94;  accepts= 0.1489; 
+level    3 temperature 3.00           HX_3_2 trials=    107;  accepts= 0.1308; 
+Stats for job: 1AK4_b_000140
+level    1 temperature 0.80           HX_1_2 trials=    122;  accepts= 0.0164; 
+level    2 temperature 1.50           HX_2_1 trials=     60;  accepts= 0.0333; 
+level    2 temperature 1.50           HX_2_3 trials=     60;  accepts= 0.0833; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000141
+level    1 temperature 0.80           HX_1_2 trials=     79;  accepts= 0.0380; 
+level    2 temperature 1.50           HX_2_1 trials=     48;  accepts= 0.0625; 
+level    2 temperature 1.50           HX_2_3 trials=     48;  accepts= 0.1875; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.1154; 
+Stats for job: 1AK4_b_000144
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     99;  accepts= 0.0101; 
+level    2 temperature 1.50           HX_2_3 trials=     99;  accepts= 0.1414; 
+level    3 temperature 3.00           HX_3_2 trials=    107;  accepts= 0.1308; 
+Stats for job: 1AK4_b_000141
+level    1 temperature 0.80           HX_1_2 trials=    127;  accepts= 0.0157; 
+level    2 temperature 1.50           HX_2_1 trials=     60;  accepts= 0.0333; 
+level    2 temperature 1.50           HX_2_3 trials=     60;  accepts= 0.0833; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000142
+level    1 temperature 0.80           HX_1_2 trials=     79;  accepts= 0.0380; 
+level    2 temperature 1.50           HX_2_1 trials=     49;  accepts= 0.0612; 
+level    2 temperature 1.50           HX_2_3 trials=     49;  accepts= 0.2041; 
+level    3 temperature 3.00           HX_3_2 trials=     82;  accepts= 0.1341; 
+Stats for job: 1AK4_b_000145
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=    102;  accepts= 0.0098; 
+level    2 temperature 1.50           HX_2_3 trials=    102;  accepts= 0.1569; 
+level    3 temperature 3.00           HX_3_2 trials=    109;  accepts= 0.1468; 
+Stats for job: 1AK4_b_000142
+level    1 temperature 0.80           HX_1_2 trials=    132;  accepts= 0.0152; 
+level    2 temperature 1.50           HX_2_1 trials=     60;  accepts= 0.0333; 
+level    2 temperature 1.50           HX_2_3 trials=     60;  accepts= 0.0833; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000143
+level    1 temperature 0.80           HX_1_2 trials=     79;  accepts= 0.0380; 
+level    2 temperature 1.50           HX_2_1 trials=     50;  accepts= 0.0600; 
+level    2 temperature 1.50           HX_2_3 trials=     50;  accepts= 0.2200; 
+level    3 temperature 3.00           HX_3_2 trials=     86;  accepts= 0.1279; 
+Stats for job: 1AK4_b_000146
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=    107;  accepts= 0.0093; 
+level    2 temperature 1.50           HX_2_3 trials=    107;  accepts= 0.1495; 
+level    3 temperature 3.00           HX_3_2 trials=    109;  accepts= 0.1468; 
+Stats for job: 1AK4_b_000143
+level    1 temperature 0.80           HX_1_2 trials=    137;  accepts= 0.0146; 
+level    2 temperature 1.50           HX_2_1 trials=     60;  accepts= 0.0333; 
+level    2 temperature 1.50           HX_2_3 trials=     60;  accepts= 0.0833; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000144
+level    1 temperature 0.80           HX_1_2 trials=     79;  accepts= 0.0380; 
+level    2 temperature 1.50           HX_2_1 trials=     50;  accepts= 0.0600; 
+level    2 temperature 1.50           HX_2_3 trials=     50;  accepts= 0.2200; 
+level    3 temperature 3.00           HX_3_2 trials=     91;  accepts= 0.1209; 
+Stats for job: 1AK4_b_000147
+level    1 temperature 0.80           HX_1_2 trials=      2;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=    111;  accepts= 0.0270; 
+level    2 temperature 1.50           HX_2_3 trials=    111;  accepts= 0.1441; 
+level    3 temperature 3.00           HX_3_2 trials=    109;  accepts= 0.1468; 
+Stats for job: 1AK4_b_000144
+level    1 temperature 0.80           HX_1_2 trials=    141;  accepts= 0.0284; 
+level    2 temperature 1.50           HX_2_1 trials=     61;  accepts= 0.0492; 
+level    2 temperature 1.50           HX_2_3 trials=     61;  accepts= 0.0820; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000145
+level    1 temperature 0.80           HX_1_2 trials=     79;  accepts= 0.0380; 
+level    2 temperature 1.50           HX_2_1 trials=     50;  accepts= 0.0600; 
+level    2 temperature 1.50           HX_2_3 trials=     50;  accepts= 0.2200; 
+level    3 temperature 3.00           HX_3_2 trials=     96;  accepts= 0.1146; 
+Stats for job: 1AK4_b_000145
+level    1 temperature 0.80           HX_1_2 trials=    145;  accepts= 0.0276; 
+level    2 temperature 1.50           HX_2_1 trials=     62;  accepts= 0.0645; 
+level    2 temperature 1.50           HX_2_3 trials=     62;  accepts= 0.0806; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000148
+level    1 temperature 0.80           HX_1_2 trials=      3;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=    115;  accepts= 0.0261; 
+level    2 temperature 1.50           HX_2_3 trials=    115;  accepts= 0.1391; 
+level    3 temperature 3.00           HX_3_2 trials=    109;  accepts= 0.1468; 
+Stats for job: 1AK4_b_000146
+level    1 temperature 0.80           HX_1_2 trials=     79;  accepts= 0.0380; 
+level    2 temperature 1.50           HX_2_1 trials=     51;  accepts= 0.0588; 
+level    2 temperature 1.50           HX_2_3 trials=     50;  accepts= 0.2200; 
+level    3 temperature 3.00           HX_3_2 trials=    101;  accepts= 0.1188; 
+Stats for job: 1AK4_b_000146
+level    1 temperature 0.80           HX_1_2 trials=    150;  accepts= 0.0267; 
+level    2 temperature 1.50           HX_2_1 trials=     62;  accepts= 0.0645; 
+level    2 temperature 1.50           HX_2_3 trials=     62;  accepts= 0.0806; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000149
+level    1 temperature 0.80           HX_1_2 trials=      3;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=    119;  accepts= 0.0252; 
+level    2 temperature 1.50           HX_2_3 trials=    119;  accepts= 0.1429; 
+level    3 temperature 3.00           HX_3_2 trials=    110;  accepts= 0.1545; 
+Stats for job: 1AK4_b_000147
+level    1 temperature 0.80           HX_1_2 trials=     79;  accepts= 0.0380; 
+level    2 temperature 1.50           HX_2_1 trials=     53;  accepts= 0.0566; 
+level    2 temperature 1.50           HX_2_3 trials=     52;  accepts= 0.2308; 
+level    3 temperature 3.00           HX_3_2 trials=    104;  accepts= 0.1250; 
+Stats for job: 1AK4_b_000147
+level    1 temperature 0.80           HX_1_2 trials=    155;  accepts= 0.0258; 
+level    2 temperature 1.50           HX_2_1 trials=     62;  accepts= 0.0645; 
+level    2 temperature 1.50           HX_2_3 trials=     62;  accepts= 0.0806; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000150
+level    1 temperature 0.80           HX_1_2 trials=      3;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=    120;  accepts= 0.0250; 
+level    2 temperature 1.50           HX_2_3 trials=    121;  accepts= 0.1488; 
+level    3 temperature 3.00           HX_3_2 trials=    113;  accepts= 0.1504; 
+Stats for job: 1AK4_b_000148
+level    1 temperature 0.80           HX_1_2 trials=     79;  accepts= 0.0380; 
+level    2 temperature 1.50           HX_2_1 trials=     58;  accepts= 0.0517; 
+level    2 temperature 1.50           HX_2_3 trials=     57;  accepts= 0.2105; 
+level    3 temperature 3.00           HX_3_2 trials=    104;  accepts= 0.1250; 
+Stats for job: 1AK4_b_000148
+level    1 temperature 0.80           HX_1_2 trials=    159;  accepts= 0.0252; 
+level    2 temperature 1.50           HX_2_1 trials=     62;  accepts= 0.0645; 
+level    2 temperature 1.50           HX_2_3 trials=     62;  accepts= 0.0806; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000151
+level    1 temperature 0.80           HX_1_2 trials=      3;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=    120;  accepts= 0.0250; 
+level    2 temperature 1.50           HX_2_3 trials=    121;  accepts= 0.1488; 
+level    3 temperature 3.00           HX_3_2 trials=    118;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000149
+level    1 temperature 0.80           HX_1_2 trials=     80;  accepts= 0.0500; 
+level    2 temperature 1.50           HX_2_1 trials=     61;  accepts= 0.0656; 
+level    2 temperature 1.50           HX_2_3 trials=     61;  accepts= 0.2131; 
+level    3 temperature 3.00           HX_3_2 trials=    104;  accepts= 0.1250; 
+Stats for job: 1AK4_b_000149
+level    1 temperature 0.80           HX_1_2 trials=    163;  accepts= 0.0307; 
+level    2 temperature 1.50           HX_2_1 trials=     63;  accepts= 0.0794; 
+level    2 temperature 1.50           HX_2_3 trials=     63;  accepts= 0.0794; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000152
+level    1 temperature 0.80           HX_1_2 trials=      3;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=    123;  accepts= 0.0325; 
+level    2 temperature 1.50           HX_2_3 trials=    123;  accepts= 0.1463; 
+level    3 temperature 3.00           HX_3_2 trials=    121;  accepts= 0.1488; 
+Stats for job: 1AK4_b_000150
+level    1 temperature 0.80           HX_1_2 trials=     80;  accepts= 0.0500; 
+level    2 temperature 1.50           HX_2_1 trials=     61;  accepts= 0.0656; 
+level    2 temperature 1.50           HX_2_3 trials=     61;  accepts= 0.2131; 
+level    3 temperature 3.00           HX_3_2 trials=    109;  accepts= 0.1193; 
+Stats for job: 1AK4_b_000150
+level    1 temperature 0.80           HX_1_2 trials=    167;  accepts= 0.0359; 
+level    2 temperature 1.50           HX_2_1 trials=     64;  accepts= 0.0938; 
+level    2 temperature 1.50           HX_2_3 trials=     64;  accepts= 0.0781; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_0001
+level    1 temperature 0.80           HX_1_2 trials=    167;  accepts= 0.0359; 
+level    2 temperature 1.50           HX_2_1 trials=     64;  accepts= 0.0938; 
+level    2 temperature 1.50           HX_2_3 trials=     64;  accepts= 0.0781; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.2500; 
+Stats for job: 1AK4_b_0001
+level    1 temperature 0.80           HX_1_2 trials=     80;  accepts= 0.0500; 
+level    2 temperature 1.50           HX_2_1 trials=     61;  accepts= 0.0656; 
+level    2 temperature 1.50           HX_2_3 trials=     61;  accepts= 0.2131; 
+level    3 temperature 3.00           HX_3_2 trials=    111;  accepts= 0.1171; 
+Stats for job: 1AK4_b_0001
+level    1 temperature 0.80           HX_1_2 trials=      4;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=    126;  accepts= 0.0317; 
+level    2 temperature 1.50           HX_2_3 trials=    127;  accepts= 0.1417; 
+level    3 temperature 3.00           HX_3_2 trials=    121;  accepts= 0.1488; 
+Stats for job: 1AK4_b_00021
+level    1 temperature 0.80           HX_1_2 trials=      4;  accepts= 0.2500; 
+Stats for job: 1AK4_b_00021
+level    2 temperature 1.50           HX_2_1 trials=      4;  accepts= 0.2500; 
+level    2 temperature 1.50           HX_2_3 trials=      4 NO ACCEPTS.
+Stats for job: 1AK4_b_00021
+level    3 temperature 3.00           HX_3_2 trials=      8 NO ACCEPTS.
+Stats for job: 1AK4_b_00022
+level    1 temperature 0.80           HX_1_2 trials=      7;  accepts= 0.1429; 
+level    2 temperature 1.50           HX_2_1 trials=      2;  accepts= 0.5000; 
+level    2 temperature 1.50           HX_2_3 trials=      2 NO ACCEPTS.
+Stats for job: 1AK4_b_00022
+level    1 temperature 0.80           HX_1_2 trials=      2;  accepts= 0.5000; 
+level    2 temperature 1.50           HX_2_1 trials=      7;  accepts= 0.1429; 
+level    2 temperature 1.50           HX_2_3 trials=      7 NO ACCEPTS.
+Stats for job: 1AK4_b_00023
+level    1 temperature 0.80           HX_1_2 trials=      4;  accepts= 0.5000; 
+level    2 temperature 1.50           HX_2_1 trials=      9;  accepts= 0.2222; 
+level    2 temperature 1.50           HX_2_3 trials=      9 NO ACCEPTS.
+Stats for job: 1AK4_b_00023
+level    1 temperature 0.80           HX_1_2 trials=      9;  accepts= 0.2222; 
+level    2 temperature 1.50           HX_2_1 trials=      4;  accepts= 0.5000; 
+level    2 temperature 1.50           HX_2_3 trials=      4 NO ACCEPTS.
+Stats for job: 1AK4_b_00024
+level    1 temperature 0.80           HX_1_2 trials=      4;  accepts= 0.5000; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.3000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=      1;  accepts= 1.0000; 
+Stats for job: 1AK4_b_00022
+level    2 temperature 1.50           HX_2_1 trials=      1 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=      1;  accepts= 1.0000; 
+level    3 temperature 3.00           HX_3_2 trials=     15;  accepts= 0.0667; 
+Stats for job: 1AK4_b_00024
+level    1 temperature 0.80           HX_1_2 trials=     11;  accepts= 0.2727; 
+level    2 temperature 1.50           HX_2_1 trials=      6;  accepts= 0.3333; 
+level    2 temperature 1.50           HX_2_3 trials=      7;  accepts= 0.1429; 
+Stats for job: 1AK4_b_00025
+level    1 temperature 0.80           HX_1_2 trials=      7;  accepts= 0.2857; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.3000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=      1;  accepts= 1.0000; 
+Stats for job: 1AK4_b_00026
+level    1 temperature 0.80           HX_1_2 trials=     10;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.3000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=      1;  accepts= 1.0000; 
+Stats for job: 1AK4_b_00023
+level    2 temperature 1.50           HX_2_1 trials=      2 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=      2;  accepts= 1.0000; 
+level    3 temperature 3.00           HX_3_2 trials=     20;  accepts= 0.1000; 
+Stats for job: 1AK4_b_00025
+level    1 temperature 0.80           HX_1_2 trials=     11;  accepts= 0.2727; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.2000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=      1;  accepts= 1.0000; 
+Stats for job: 1AK4_b_00027
+level    1 temperature 0.80           HX_1_2 trials=     13;  accepts= 0.1538; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.3000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=      1;  accepts= 1.0000; 
+Stats for job: 1AK4_b_00026
+level    1 temperature 0.80           HX_1_2 trials=     11;  accepts= 0.2727; 
+level    2 temperature 1.50           HX_2_1 trials=     13;  accepts= 0.1538; 
+level    2 temperature 1.50           HX_2_3 trials=     14;  accepts= 0.1429; 
+level    3 temperature 3.00           HX_3_2 trials=      1;  accepts= 1.0000; 
+Stats for job: 1AK4_b_00024
+level    2 temperature 1.50           HX_2_1 trials=      5 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=      4;  accepts= 0.5000; 
+level    3 temperature 3.00           HX_3_2 trials=     24;  accepts= 0.1250; 
+Stats for job: 1AK4_b_00027
+level    1 temperature 0.80           HX_1_2 trials=     11;  accepts= 0.2727; 
+level    2 temperature 1.50           HX_2_1 trials=     13;  accepts= 0.1538; 
+level    2 temperature 1.50           HX_2_3 trials=     14;  accepts= 0.1429; 
+level    3 temperature 3.00           HX_3_2 trials=      3;  accepts= 0.3333; 
+Stats for job: 1AK4_b_00028
+level    1 temperature 0.80           HX_1_2 trials=     17;  accepts= 0.1176; 
+level    2 temperature 1.50           HX_2_1 trials=     10;  accepts= 0.3000; 
+level    2 temperature 1.50           HX_2_3 trials=     10;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=      1;  accepts= 1.0000; 
+Stats for job: 1AK4_b_00029
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     11;  accepts= 0.2727; 
+level    2 temperature 1.50           HX_2_3 trials=     11;  accepts= 0.0909; 
+level    3 temperature 3.00           HX_3_2 trials=      1;  accepts= 1.0000; 
+Stats for job: 1AK4_b_00028
+level    1 temperature 0.80           HX_1_2 trials=     13;  accepts= 0.2308; 
+level    2 temperature 1.50           HX_2_1 trials=     14;  accepts= 0.2143; 
+level    2 temperature 1.50           HX_2_3 trials=     14;  accepts= 0.1429; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000210
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     16;  accepts= 0.1875; 
+level    2 temperature 1.50           HX_2_3 trials=     16;  accepts= 0.0625; 
+level    3 temperature 3.00           HX_3_2 trials=      1;  accepts= 1.0000; 
+Stats for job: 1AK4_b_00025
+level    2 temperature 1.50           HX_2_1 trials=      6 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=      6;  accepts= 0.5000; 
+level    3 temperature 3.00           HX_3_2 trials=     31;  accepts= 0.0968; 
+Stats for job: 1AK4_b_00029
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     14;  accepts= 0.2143; 
+level    2 temperature 1.50           HX_2_3 trials=     14;  accepts= 0.1429; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000211
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     20;  accepts= 0.1500; 
+level    2 temperature 1.50           HX_2_3 trials=     21;  accepts= 0.0476; 
+level    3 temperature 3.00           HX_3_2 trials=      1;  accepts= 1.0000; 
+Stats for job: 1AK4_b_00026
+level    2 temperature 1.50           HX_2_1 trials=      7 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=      6;  accepts= 0.5000; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000210
+level    1 temperature 0.80           HX_1_2 trials=     25;  accepts= 0.1200; 
+level    2 temperature 1.50           HX_2_1 trials=     14;  accepts= 0.2143; 
+level    2 temperature 1.50           HX_2_3 trials=     14;  accepts= 0.1429; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000212
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=      4;  accepts= 0.2500; 
+Stats for job: 1AK4_b_00027
+level    2 temperature 1.50           HX_2_1 trials=     12 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     11;  accepts= 0.2727; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000211
+level    1 temperature 0.80           HX_1_2 trials=     30;  accepts= 0.1000; 
+level    2 temperature 1.50           HX_2_1 trials=     14;  accepts= 0.2143; 
+level    2 temperature 1.50           HX_2_3 trials=     14;  accepts= 0.1429; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000213
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=      8;  accepts= 0.1250; 
+Stats for job: 1AK4_b_00028
+level    2 temperature 1.50           HX_2_1 trials=     17 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     16;  accepts= 0.1875; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000214
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     13;  accepts= 0.0769; 
+Stats for job: 1AK4_b_000212
+level    1 temperature 0.80           HX_1_2 trials=     36;  accepts= 0.0833; 
+level    2 temperature 1.50           HX_2_1 trials=     14;  accepts= 0.2143; 
+level    2 temperature 1.50           HX_2_3 trials=     14;  accepts= 0.1429; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_00029
+level    2 temperature 1.50           HX_2_1 trials=     22 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     21;  accepts= 0.1429; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000215
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     18;  accepts= 0.0556; 
+Stats for job: 1AK4_b_000213
+level    1 temperature 0.80           HX_1_2 trials=     41;  accepts= 0.0732; 
+level    2 temperature 1.50           HX_2_1 trials=     14;  accepts= 0.2143; 
+level    2 temperature 1.50           HX_2_3 trials=     14;  accepts= 0.1429; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000210
+level    2 temperature 1.50           HX_2_1 trials=     27 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     26;  accepts= 0.1154; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000216
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     22;  accepts= 0.0455; 
+Stats for job: 1AK4_b_000214
+level    1 temperature 0.80           HX_1_2 trials=     47;  accepts= 0.0638; 
+level    2 temperature 1.50           HX_2_1 trials=     14;  accepts= 0.2143; 
+level    2 temperature 1.50           HX_2_3 trials=     14;  accepts= 0.1429; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000211
+level    2 temperature 1.50           HX_2_1 trials=     32 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     31;  accepts= 0.0968; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000217
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     27;  accepts= 0.0370; 
+Stats for job: 1AK4_b_000215
+level    1 temperature 0.80           HX_1_2 trials=     52;  accepts= 0.0577; 
+level    2 temperature 1.50           HX_2_1 trials=     14;  accepts= 0.2143; 
+level    2 temperature 1.50           HX_2_3 trials=     14;  accepts= 0.1429; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000212
+level    2 temperature 1.50           HX_2_1 trials=     37 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     36;  accepts= 0.0833; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000218
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     32;  accepts= 0.0312; 
+Stats for job: 1AK4_b_000216
+level    1 temperature 0.80           HX_1_2 trials=     57;  accepts= 0.0702; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000213
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     40;  accepts= 0.0250; 
+level    2 temperature 1.50           HX_2_3 trials=     40;  accepts= 0.0750; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000219
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.0270; 
+Stats for job: 1AK4_b_000217
+level    1 temperature 0.80           HX_1_2 trials=     62;  accepts= 0.0645; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000214
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     45;  accepts= 0.0222; 
+level    2 temperature 1.50           HX_2_3 trials=     45;  accepts= 0.0667; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000220
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     42;  accepts= 0.0238; 
+Stats for job: 1AK4_b_000215
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     50;  accepts= 0.0200; 
+level    2 temperature 1.50           HX_2_3 trials=     50;  accepts= 0.0600; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000221
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     46;  accepts= 0.0217; 
+Stats for job: 1AK4_b_000218
+level    1 temperature 0.80           HX_1_2 trials=     68;  accepts= 0.0588; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000222
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     51;  accepts= 0.0196; 
+Stats for job: 1AK4_b_000216
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     55;  accepts= 0.0182; 
+level    2 temperature 1.50           HX_2_3 trials=     55;  accepts= 0.0545; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000219
+level    1 temperature 0.80           HX_1_2 trials=     73;  accepts= 0.0548; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000223
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     56;  accepts= 0.0179; 
+Stats for job: 1AK4_b_000217
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     60;  accepts= 0.0167; 
+level    2 temperature 1.50           HX_2_3 trials=     60;  accepts= 0.0500; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000220
+level    1 temperature 0.80           HX_1_2 trials=     79;  accepts= 0.0506; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000218
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     65;  accepts= 0.0154; 
+level    2 temperature 1.50           HX_2_3 trials=     65;  accepts= 0.0462; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000224
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     61;  accepts= 0.0164; 
+Stats for job: 1AK4_b_000221
+level    1 temperature 0.80           HX_1_2 trials=     84;  accepts= 0.0476; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000225
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     66;  accepts= 0.0152; 
+Stats for job: 1AK4_b_000219
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     70;  accepts= 0.0143; 
+level    2 temperature 1.50           HX_2_3 trials=     70;  accepts= 0.0429; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000222
+level    1 temperature 0.80           HX_1_2 trials=     90;  accepts= 0.0444; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000226
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     70;  accepts= 0.0143; 
+Stats for job: 1AK4_b_000220
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     75;  accepts= 0.0133; 
+level    2 temperature 1.50           HX_2_3 trials=     75;  accepts= 0.0400; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000223
+level    1 temperature 0.80           HX_1_2 trials=     95;  accepts= 0.0421; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000227
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.1364; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=     75;  accepts= 0.0133; 
+Stats for job: 1AK4_b_000221
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     80;  accepts= 0.0125; 
+level    2 temperature 1.50           HX_2_3 trials=     80;  accepts= 0.0375; 
+level    3 temperature 3.00           HX_3_2 trials=     37;  accepts= 0.1081; 
+Stats for job: 1AK4_b_000224
+level    1 temperature 0.80           HX_1_2 trials=    100;  accepts= 0.0400; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000222
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     81;  accepts= 0.0123; 
+level    2 temperature 1.50           HX_2_3 trials=     81;  accepts= 0.0494; 
+level    3 temperature 3.00           HX_3_2 trials=     40;  accepts= 0.1000; 
+Stats for job: 1AK4_b_000228
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     26;  accepts= 0.1154; 
+level    2 temperature 1.50           HX_2_3 trials=     26;  accepts= 0.0769; 
+level    3 temperature 3.00           HX_3_2 trials=     77;  accepts= 0.0260; 
+Stats for job: 1AK4_b_000225
+level    1 temperature 0.80           HX_1_2 trials=    105;  accepts= 0.0381; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000223
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     81;  accepts= 0.0123; 
+level    2 temperature 1.50           HX_2_3 trials=     81;  accepts= 0.0494; 
+level    3 temperature 3.00           HX_3_2 trials=     44;  accepts= 0.0909; 
+Stats for job: 1AK4_b_000229
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     30;  accepts= 0.1000; 
+level    2 temperature 1.50           HX_2_3 trials=     31;  accepts= 0.0968; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000224
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     47;  accepts= 0.1064; 
+Stats for job: 1AK4_b_000226
+level    1 temperature 0.80           HX_1_2 trials=    110;  accepts= 0.0364; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000230
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     35;  accepts= 0.0857; 
+level    2 temperature 1.50           HX_2_3 trials=     36;  accepts= 0.0833; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000225
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     51;  accepts= 0.0980; 
+Stats for job: 1AK4_b_000227
+level    1 temperature 0.80           HX_1_2 trials=    114;  accepts= 0.0351; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000231
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     40;  accepts= 0.0750; 
+level    2 temperature 1.50           HX_2_3 trials=     41;  accepts= 0.0732; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000226
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     55;  accepts= 0.0909; 
+Stats for job: 1AK4_b_000228
+level    1 temperature 0.80           HX_1_2 trials=    119;  accepts= 0.0336; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000227
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     59;  accepts= 0.0847; 
+Stats for job: 1AK4_b_000232
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     45;  accepts= 0.0667; 
+level    2 temperature 1.50           HX_2_3 trials=     46;  accepts= 0.0652; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000229
+level    1 temperature 0.80           HX_1_2 trials=    124;  accepts= 0.0323; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000228
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     63;  accepts= 0.0794; 
+Stats for job: 1AK4_b_000233
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     50;  accepts= 0.0600; 
+level    2 temperature 1.50           HX_2_3 trials=     51;  accepts= 0.0588; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000230
+level    1 temperature 0.80           HX_1_2 trials=    128;  accepts= 0.0312; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000229
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     67;  accepts= 0.0746; 
+Stats for job: 1AK4_b_000234
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     55;  accepts= 0.0545; 
+level    2 temperature 1.50           HX_2_3 trials=     56;  accepts= 0.0536; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000231
+level    1 temperature 0.80           HX_1_2 trials=    133;  accepts= 0.0301; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000230
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     71;  accepts= 0.0704; 
+Stats for job: 1AK4_b_000235
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     60;  accepts= 0.0500; 
+level    2 temperature 1.50           HX_2_3 trials=     60;  accepts= 0.0500; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000231
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     75;  accepts= 0.0667; 
+Stats for job: 1AK4_b_000232
+level    1 temperature 0.80           HX_1_2 trials=    137;  accepts= 0.0292; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000232
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     79;  accepts= 0.0633; 
+Stats for job: 1AK4_b_000233
+level    1 temperature 0.80           HX_1_2 trials=    142;  accepts= 0.0282; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000236
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     65;  accepts= 0.0462; 
+level    2 temperature 1.50           HX_2_3 trials=     65;  accepts= 0.0462; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000233
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     83;  accepts= 0.0602; 
+Stats for job: 1AK4_b_000234
+level    1 temperature 0.80           HX_1_2 trials=    146;  accepts= 0.0274; 
+level    2 temperature 1.50           HX_2_1 trials=     15;  accepts= 0.2667; 
+level    2 temperature 1.50           HX_2_3 trials=     15;  accepts= 0.1333; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000237
+level    1 temperature 0.80           HX_1_2 trials=     19;  accepts= 0.1579; 
+level    2 temperature 1.50           HX_2_1 trials=     70;  accepts= 0.0571; 
+level    2 temperature 1.50           HX_2_3 trials=     70;  accepts= 0.0429; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000234
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     87;  accepts= 0.0575; 
+Stats for job: 1AK4_b_000235
+level    1 temperature 0.80           HX_1_2 trials=    149;  accepts= 0.0403; 
+level    2 temperature 1.50           HX_2_1 trials=     17;  accepts= 0.3529; 
+level    2 temperature 1.50           HX_2_3 trials=     17;  accepts= 0.1176; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000238
+level    1 temperature 0.80           HX_1_2 trials=     21;  accepts= 0.2381; 
+level    2 temperature 1.50           HX_2_1 trials=     73;  accepts= 0.0685; 
+level    2 temperature 1.50           HX_2_3 trials=     74;  accepts= 0.0405; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000235
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     92;  accepts= 0.0543; 
+Stats for job: 1AK4_b_000236
+level    1 temperature 0.80           HX_1_2 trials=    153;  accepts= 0.0392; 
+level    2 temperature 1.50           HX_2_1 trials=     17;  accepts= 0.3529; 
+level    2 temperature 1.50           HX_2_3 trials=     17;  accepts= 0.1176; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000239
+level    1 temperature 0.80           HX_1_2 trials=     21;  accepts= 0.2381; 
+level    2 temperature 1.50           HX_2_1 trials=     78;  accepts= 0.0641; 
+level    2 temperature 1.50           HX_2_3 trials=     79;  accepts= 0.0380; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000236
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     96;  accepts= 0.0521; 
+Stats for job: 1AK4_b_000237
+level    1 temperature 0.80           HX_1_2 trials=    158;  accepts= 0.0380; 
+level    2 temperature 1.50           HX_2_1 trials=     17;  accepts= 0.3529; 
+level    2 temperature 1.50           HX_2_3 trials=     17;  accepts= 0.1176; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000237
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=     99;  accepts= 0.0505; 
+Stats for job: 1AK4_b_000240
+level    1 temperature 0.80           HX_1_2 trials=     21;  accepts= 0.2381; 
+level    2 temperature 1.50           HX_2_1 trials=     83;  accepts= 0.0723; 
+level    2 temperature 1.50           HX_2_3 trials=     83;  accepts= 0.0361; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000238
+level    1 temperature 0.80           HX_1_2 trials=    161;  accepts= 0.0497; 
+level    2 temperature 1.50           HX_2_1 trials=     19;  accepts= 0.4211; 
+level    2 temperature 1.50           HX_2_3 trials=     19;  accepts= 0.1053; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000238
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=    103;  accepts= 0.0485; 
+Stats for job: 1AK4_b_000241
+level    1 temperature 0.80           HX_1_2 trials=     23;  accepts= 0.3043; 
+level    2 temperature 1.50           HX_2_1 trials=     86;  accepts= 0.0814; 
+level    2 temperature 1.50           HX_2_3 trials=     87;  accepts= 0.0345; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000239
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=    107;  accepts= 0.0467; 
+Stats for job: 1AK4_b_000239
+level    1 temperature 0.80           HX_1_2 trials=    166;  accepts= 0.0482; 
+level    2 temperature 1.50           HX_2_1 trials=     19;  accepts= 0.4211; 
+level    2 temperature 1.50           HX_2_3 trials=     19;  accepts= 0.1053; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000242
+level    1 temperature 0.80           HX_1_2 trials=     23;  accepts= 0.3043; 
+level    2 temperature 1.50           HX_2_1 trials=     91;  accepts= 0.0769; 
+level    2 temperature 1.50           HX_2_3 trials=     92;  accepts= 0.0326; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000240
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=    111;  accepts= 0.0450; 
+Stats for job: 1AK4_b_000240
+level    1 temperature 0.80           HX_1_2 trials=    170;  accepts= 0.0471; 
+level    2 temperature 1.50           HX_2_1 trials=     19;  accepts= 0.4211; 
+level    2 temperature 1.50           HX_2_3 trials=     19;  accepts= 0.1053; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000243
+level    1 temperature 0.80           HX_1_2 trials=     23;  accepts= 0.3043; 
+level    2 temperature 1.50           HX_2_1 trials=     96;  accepts= 0.0729; 
+level    2 temperature 1.50           HX_2_3 trials=     97;  accepts= 0.0309; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000241
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=    115;  accepts= 0.0435; 
+Stats for job: 1AK4_b_000241
+level    1 temperature 0.80           HX_1_2 trials=    175;  accepts= 0.0457; 
+level    2 temperature 1.50           HX_2_1 trials=     19;  accepts= 0.4211; 
+level    2 temperature 1.50           HX_2_3 trials=     19;  accepts= 0.1053; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000242
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=    119;  accepts= 0.0420; 
+Stats for job: 1AK4_b_000244
+level    1 temperature 0.80           HX_1_2 trials=     23;  accepts= 0.3043; 
+level    2 temperature 1.50           HX_2_1 trials=    101;  accepts= 0.0693; 
+level    2 temperature 1.50           HX_2_3 trials=    102;  accepts= 0.0294; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000242
+level    1 temperature 0.80           HX_1_2 trials=    180;  accepts= 0.0444; 
+level    2 temperature 1.50           HX_2_1 trials=     19;  accepts= 0.4211; 
+level    2 temperature 1.50           HX_2_3 trials=     19;  accepts= 0.1053; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000243
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=    123;  accepts= 0.0407; 
+Stats for job: 1AK4_b_000245
+level    1 temperature 0.80           HX_1_2 trials=     23;  accepts= 0.3043; 
+level    2 temperature 1.50           HX_2_1 trials=    106;  accepts= 0.0660; 
+level    2 temperature 1.50           HX_2_3 trials=    107;  accepts= 0.0280; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000243
+level    1 temperature 0.80           HX_1_2 trials=    185;  accepts= 0.0432; 
+level    2 temperature 1.50           HX_2_1 trials=     19;  accepts= 0.4211; 
+level    2 temperature 1.50           HX_2_3 trials=     19;  accepts= 0.1053; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000244
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=    126;  accepts= 0.0397; 
+Stats for job: 1AK4_b_000246
+level    1 temperature 0.80           HX_1_2 trials=     23;  accepts= 0.3043; 
+level    2 temperature 1.50           HX_2_1 trials=    111;  accepts= 0.0631; 
+level    2 temperature 1.50           HX_2_3 trials=    112;  accepts= 0.0268; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000245
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=    130;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000244
+level    1 temperature 0.80           HX_1_2 trials=    189;  accepts= 0.0476; 
+level    2 temperature 1.50           HX_2_1 trials=     19;  accepts= 0.4211; 
+level    2 temperature 1.50           HX_2_3 trials=     20;  accepts= 0.1000; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000246
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=    134;  accepts= 0.0373; 
+Stats for job: 1AK4_b_000247
+level    1 temperature 0.80           HX_1_2 trials=     25;  accepts= 0.3600; 
+level    2 temperature 1.50           HX_2_1 trials=    114;  accepts= 0.0789; 
+level    2 temperature 1.50           HX_2_3 trials=    115;  accepts= 0.0261; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000245
+level    1 temperature 0.80           HX_1_2 trials=    192;  accepts= 0.0521; 
+level    2 temperature 1.50           HX_2_1 trials=     21;  accepts= 0.4762; 
+level    2 temperature 1.50           HX_2_3 trials=     21;  accepts= 0.0952; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000247
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=    138;  accepts= 0.0362; 
+Stats for job: 1AK4_b_000248
+level    1 temperature 0.80           HX_1_2 trials=     26;  accepts= 0.3846; 
+level    2 temperature 1.50           HX_2_1 trials=    118;  accepts= 0.0847; 
+level    2 temperature 1.50           HX_2_3 trials=    119;  accepts= 0.0252; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000246
+level    1 temperature 0.80           HX_1_2 trials=    196;  accepts= 0.0561; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.5000; 
+level    2 temperature 1.50           HX_2_3 trials=     22;  accepts= 0.0909; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000248
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=    141;  accepts= 0.0355; 
+Stats for job: 1AK4_b_000249
+level    1 temperature 0.80           HX_1_2 trials=     26;  accepts= 0.3846; 
+level    2 temperature 1.50           HX_2_1 trials=    123;  accepts= 0.0813; 
+level    2 temperature 1.50           HX_2_3 trials=    124;  accepts= 0.0242; 
+level    3 temperature 3.00           HX_3_2 trials=     78;  accepts= 0.0385; 
+Stats for job: 1AK4_b_000247
+level    1 temperature 0.80           HX_1_2 trials=    201;  accepts= 0.0597; 
+level    2 temperature 1.50           HX_2_1 trials=     22;  accepts= 0.5000; 
+level    2 temperature 1.50           HX_2_3 trials=     22;  accepts= 0.0909; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000249
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     82;  accepts= 0.0122; 
+level    2 temperature 1.50           HX_2_3 trials=     82;  accepts= 0.0610; 
+level    3 temperature 3.00           HX_3_2 trials=    146;  accepts= 0.0342; 
+Stats for job: 1AK4_b_000250
+level    1 temperature 0.80           HX_1_2 trials=     27;  accepts= 0.4074; 
+level    2 temperature 1.50           HX_2_1 trials=    125;  accepts= 0.0880; 
+level    2 temperature 1.50           HX_2_3 trials=    126;  accepts= 0.0317; 
+level    3 temperature 3.00           HX_3_2 trials=     80;  accepts= 0.0375; 
+Stats for job: 1AK4_b_000250
+level    1 temperature 0.80           HX_1_2 trials=      1;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     85;  accepts= 0.0118; 
+level    2 temperature 1.50           HX_2_3 trials=     84;  accepts= 0.0595; 
+level    3 temperature 3.00           HX_3_2 trials=    148;  accepts= 0.0405; 
+Stats for job: 1AK4_b_000248
+level    1 temperature 0.80           HX_1_2 trials=    205;  accepts= 0.0585; 
+level    2 temperature 1.50           HX_2_1 trials=     23;  accepts= 0.5217; 
+level    2 temperature 1.50           HX_2_3 trials=     23;  accepts= 0.0870; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000251
+level    1 temperature 0.80           HX_1_2 trials=      2;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     89;  accepts= 0.0225; 
+level    2 temperature 1.50           HX_2_3 trials=     88;  accepts= 0.0568; 
+level    3 temperature 3.00           HX_3_2 trials=    148;  accepts= 0.0405; 
+Stats for job: 1AK4_b_000251
+level    1 temperature 0.80           HX_1_2 trials=     27;  accepts= 0.4074; 
+level    2 temperature 1.50           HX_2_1 trials=    125;  accepts= 0.0880; 
+level    2 temperature 1.50           HX_2_3 trials=    126;  accepts= 0.0317; 
+level    3 temperature 3.00           HX_3_2 trials=     86;  accepts= 0.0349; 
+Stats for job: 1AK4_b_000249
+level    1 temperature 0.80           HX_1_2 trials=    209;  accepts= 0.0622; 
+level    2 temperature 1.50           HX_2_1 trials=     24;  accepts= 0.5417; 
+level    2 temperature 1.50           HX_2_3 trials=     24;  accepts= 0.0833; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_000252
+level    1 temperature 0.80           HX_1_2 trials=      2;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     93;  accepts= 0.0323; 
+level    2 temperature 1.50           HX_2_3 trials=     92;  accepts= 0.0543; 
+level    3 temperature 3.00           HX_3_2 trials=    148;  accepts= 0.0405; 
+Stats for job: 1AK4_b_000250
+level    1 temperature 0.80           HX_1_2 trials=    214;  accepts= 0.0701; 
+level    2 temperature 1.50           HX_2_1 trials=     25;  accepts= 0.5600; 
+level    2 temperature 1.50           HX_2_3 trials=     25;  accepts= 0.0800; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_0002
+level    1 temperature 0.80           HX_1_2 trials=    214;  accepts= 0.0701; 
+level    2 temperature 1.50           HX_2_1 trials=     25;  accepts= 0.5600; 
+level    2 temperature 1.50           HX_2_3 trials=     25;  accepts= 0.0800; 
+level    3 temperature 3.00           HX_3_2 trials=      5;  accepts= 0.4000; 
+Stats for job: 1AK4_b_0002
+level    1 temperature 0.80           HX_1_2 trials=      3;  accepts= 1.0000; 
+level    2 temperature 1.50           HX_2_1 trials=     94;  accepts= 0.0426; 
+level    2 temperature 1.50           HX_2_3 trials=     93;  accepts= 0.0538; 
+level    3 temperature 3.00           HX_3_2 trials=    148;  accepts= 0.0405; 
+Stats for job: 1AK4_b_0002
+level    1 temperature 0.80           HX_1_2 trials=     27;  accepts= 0.4074; 
+level    2 temperature 1.50           HX_2_1 trials=    125;  accepts= 0.0880; 
+level    2 temperature 1.50           HX_2_3 trials=    126;  accepts= 0.0317; 
+level    3 temperature 3.00           HX_3_2 trials=     91;  accepts= 0.0330; 
+Stats for job: 1AK4_b_0003
+Stats for job: 1AK4_b_0003
+Stats for job: 1AK4_b_00031
+Stats for job: 1AK4_b_00032
+Stats for job: 1AK4_b_00033
+Stats for job: 1AK4_b_00034

@@ -1,0 +1,171 @@
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.35.post.dev+5.main.200d5f9a7d
+[COMMIT_DATE]: 2024-09-11T17:31:36
+[APPLICATION]: /home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug
+[MODE]: Debug
+[EXTRAS]: mpi (OpenMPI 4.1.2) 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "11.4.0"
+[STDLIB]: libstdc++ version 20230528
+[START_OPTIONS]
+ -in:file:s=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -in:file:native=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -out:nstruct=1 -out:mute=all_high_mpi_rank_filebuf -out:level=300 -out:mpi_tracer_to_file=/home/mhoum/drive1/alphared/testing_ALphaRed/logs/log -out:file:scorefile=scores.fsc -out:file:silent=decoys.out -out:file:output_pose_cache_data=false -out:path:all=output/ -run:n_replica=3 -run:ignore_zero_occupancy=false -run:multiple_processes_writing_to_one_directory -run:intermediate_structures -parser:protocol=dock.xml -jd2:mpi_timeout_factor=0 -score:weights=muds_2021 -evaluation:DockMetrics -docking:partners=A_B -mh:score:use_ss1=false -mh:score:use_ss2=false -mh:score:use_aa1 -mh:score:use_aa2 -mh:path:scores_BB_BB=/home/mhoum/rosetta/database/additional_protocol_data/motif_dock/xh_16_
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(backtrace_string[abi:cxx11](int)+0x5a) [0x7ac047a78ffa]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xb2) [0x7ac047ade306]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::UtilityExitException::UtilityExitException(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x79) [0x7ac047a7eff9]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::exit(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)+0x55) [0x7ac047a7e76b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIMultiCommJobDistributor::setup_sub_communicators(unsigned long)+0x219) [0x7ac04a4dfe2b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIMultiCommJobDistributor::MPIMultiCommJobDistributor(unsigned long)+0xeb) [0x7ac04a4dfb5f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributorFactory::create_job_distributor()+0x16a) [0x7ac04a4a8210]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::create_singleton_instance()+0xd) [0x7ac04a4981e1]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor* std::__invoke_impl<protocols::jd2::JobDistributor*, protocols::jd2::JobDistributor* (*&)()>(std::__invoke_other, protocols::jd2::JobDistributor* (*&)())+0x21) [0x7ac04a4a6bbe]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(std::__invoke_result<protocols::jd2::JobDistributor* (*&)()>::type std::__invoke<protocols::jd2::JobDistributor* (*&)()>(protocols::jd2::JobDistributor* (*&)())+0x24) [0x7ac04a4a6201]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor* std::_Bind<protocols::jd2::JobDistributor* (*())()>::__call<protocols::jd2::JobDistributor*>(std::tuple<>&&, std::_Index_tuple<>)+0x20) [0x7ac04a4a4e80]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor* std::_Bind<protocols::jd2::JobDistributor* (*())()>::operator()<, protocols::jd2::JobDistributor*>()+0x37) [0x7ac04a4a423f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor* std::__invoke_impl<protocols::jd2::JobDistributor*, std::_Bind<protocols::jd2::JobDistributor* (*())()>&>(std::__invoke_other, std::_Bind<protocols::jd2::JobDistributor* (*())()>&)+0x24) [0x7ac04a4a3760]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(std::enable_if<std::__and_<std::__not_<std::is_void<protocols::jd2::JobDistributor*> >, std::is_convertible<std::__invoke_result<std::_Bind<protocols::jd2::JobDistributor* (*())()>&>::type, protocols::jd2::JobDistributor*> >::value, protocols::jd2::JobDistributor*>::type std::__invoke_r<protocols::jd2::JobDistributor*, std::_Bind<protocols::jd2::JobDistributor* (*())()>&>(std::_Bind<protocols::jd2::JobDistributor* (*())()>&)+0x24) [0x7ac04a4a27c3]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(std::_Function_handler<protocols::jd2::JobDistributor* (), std::_Bind<protocols::jd2::JobDistributor* (*())()> >::_M_invoke(std::_Any_data const&)+0x24) [0x7ac04a4a1027]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(std::function<protocols::jd2::JobDistributor* ()>::operator()() const+0x36) [0x7ac04a4a1100]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(void utility::thread::safely_create_singleton<protocols::jd2::JobDistributor>(std::function<protocols::jd2::JobDistributor* ()>, protocols::jd2::JobDistributor*&)+0x2c) [0x7ac04a49f92d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::get_instance()+0x73) [0x7ac04a49815f]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x11b41) [0x5aa0d43b1b41]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7ac046429d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7ac046429e40]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x116c5) [0x5aa0d43b16c5]
+
+[END_BACKTRACE]
+
+[FILE]: src/protocols/jd2/MPIMultiCommJobDistributor.cc
+[LINE]: 66
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: cannot run with requested size of sub-partition
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.35.post.dev+5.main.200d5f9a7d
+[COMMIT_DATE]: 2024-09-11T17:31:36
+[APPLICATION]: /home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug
+[MODE]: Debug
+[EXTRAS]: mpi (OpenMPI 4.1.2) 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "11.4.0"
+[STDLIB]: libstdc++ version 20230528
+[START_OPTIONS]
+ -in:file:s=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -in:file:native=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -out:nstruct=1 -out:mute=all_high_mpi_rank_filebuf -out:level=300 -out:mpi_tracer_to_file=/home/mhoum/drive1/alphared/testing_ALphaRed/logs/log -out:file:scorefile=scores.fsc -out:file:silent=decoys.out -out:file:output_pose_cache_data=false -out:path:all=output/ -run:n_replica=3 -run:ignore_zero_occupancy=false -run:multiple_processes_writing_to_one_directory -run:intermediate_structures -parser:protocol=dock.xml -jd2:mpi_timeout_factor=0 -score:weights=muds_2021 -evaluation:DockMetrics -docking:partners=A_B -mh:score:use_ss1=false -mh:score:use_ss2=false -mh:score:use_aa1 -mh:score:use_aa2 -mh:path:scores_BB_BB=/home/mhoum/rosetta/database/additional_protocol_data/motif_dock/xh_16_
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(backtrace_string[abi:cxx11](int)+0x5a) [0x7ee536078ffa]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xb2) [0x7ee5360de306]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::UtilityExitException::UtilityExitException(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x79) [0x7ee53607eff9]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::exit(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)+0x55) [0x7ee53607e76b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIMultiCommJobDistributor::setup_sub_communicators(unsigned long)+0x219) [0x7ee538adfe2b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIMultiCommJobDistributor::MPIMultiCommJobDistributor(unsigned long)+0xeb) [0x7ee538adfb5f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributorFactory::create_job_distributor()+0x16a) [0x7ee538aa8210]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::create_singleton_instance()+0xd) [0x7ee538a981e1]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor* std::__invoke_impl<protocols::jd2::JobDistributor*, protocols::jd2::JobDistributor* (*&)()>(std::__invoke_other, protocols::jd2::JobDistributor* (*&)())+0x21) [0x7ee538aa6bbe]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(std::__invoke_result<protocols::jd2::JobDistributor* (*&)()>::type std::__invoke<protocols::jd2::JobDistributor* (*&)()>(protocols::jd2::JobDistributor* (*&)())+0x24) [0x7ee538aa6201]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor* std::_Bind<protocols::jd2::JobDistributor* (*())()>::__call<protocols::jd2::JobDistributor*>(std::tuple<>&&, std::_Index_tuple<>)+0x20) [0x7ee538aa4e80]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor* std::_Bind<protocols::jd2::JobDistributor* (*())()>::operator()<, protocols::jd2::JobDistributor*>()+0x37) [0x7ee538aa423f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor* std::__invoke_impl<protocols::jd2::JobDistributor*, std::_Bind<protocols::jd2::JobDistributor* (*())()>&>(std::__invoke_other, std::_Bind<protocols::jd2::JobDistributor* (*())()>&)+0x24) [0x7ee538aa3760]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(std::enable_if<std::__and_<std::__not_<std::is_void<protocols::jd2::JobDistributor*> >, std::is_convertible<std::__invoke_result<std::_Bind<protocols::jd2::JobDistributor* (*())()>&>::type, protocols::jd2::JobDistributor*> >::value, protocols::jd2::JobDistributor*>::type std::__invoke_r<protocols::jd2::JobDistributor*, std::_Bind<protocols::jd2::JobDistributor* (*())()>&>(std::_Bind<protocols::jd2::JobDistributor* (*())()>&)+0x24) [0x7ee538aa27c3]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(std::_Function_handler<protocols::jd2::JobDistributor* (), std::_Bind<protocols::jd2::JobDistributor* (*())()> >::_M_invoke(std::_Any_data const&)+0x24) [0x7ee538aa1027]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(std::function<protocols::jd2::JobDistributor* ()>::operator()() const+0x36) [0x7ee538aa1100]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(void utility::thread::safely_create_singleton<protocols::jd2::JobDistributor>(std::function<protocols::jd2::JobDistributor* ()>, protocols::jd2::JobDistributor*&)+0x2c) [0x7ee538a9f92d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::get_instance()+0x73) [0x7ee538a9815f]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x11b41) [0x5d9261df1b41]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7ee534a29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7ee534a29e40]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x116c5) [0x5d9261df16c5]
+
+[END_BACKTRACE]
+
+[FILE]: src/protocols/jd2/MPIMultiCommJobDistributor.cc
+[LINE]: 66
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: cannot run with requested size of sub-partition
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.35.post.dev+5.main.200d5f9a7d
+[COMMIT_DATE]: 2024-09-11T17:31:36
+[APPLICATION]: /home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug
+[MODE]: Debug
+[EXTRAS]: mpi (OpenMPI 4.1.2) 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "11.4.0"
+[STDLIB]: libstdc++ version 20230528
+[START_OPTIONS]
+ -in:file:s=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -in:file:native=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -out:nstruct=1 -out:mute=all_high_mpi_rank_filebuf -out:level=300 -out:mpi_tracer_to_file=/home/mhoum/drive1/alphared/testing_ALphaRed/logs/log -out:file:scorefile=scores.fsc -out:file:silent=decoys.out -out:file:output_pose_cache_data=false -out:path:all=output/ -run:n_replica=3 -run:ignore_zero_occupancy=false -run:multiple_processes_writing_to_one_directory -run:intermediate_structures -parser:protocol=dock.xml -jd2:mpi_timeout_factor=0 -score:weights=muds_2021 -evaluation:DockMetrics -docking:partners=A_B -mh:score:use_ss1=false -mh:score:use_ss2=false -mh:score:use_aa1 -mh:score:use_aa2 -mh:path:scores_BB_BB=/home/mhoum/rosetta/database/additional_protocol_data/motif_dock/xh_16_
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(backtrace_string[abi:cxx11](int)+0x5a) [0x74fdd2e78ffa]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xb2) [0x74fdd2ede306]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::UtilityExitException::UtilityExitException(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x79) [0x74fdd2e7eff9]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::exit(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)+0x55) [0x74fdd2e7e76b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIMultiCommJobDistributor::setup_sub_communicators(unsigned long)+0x219) [0x74fdd58dfe2b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIMultiCommJobDistributor::MPIMultiCommJobDistributor(unsigned long)+0xeb) [0x74fdd58dfb5f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributorFactory::create_job_distributor()+0x16a) [0x74fdd58a8210]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::create_singleton_instance()+0xd) [0x74fdd58981e1]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor* std::__invoke_impl<protocols::jd2::JobDistributor*, protocols::jd2::JobDistributor* (*&)()>(std::__invoke_other, protocols::jd2::JobDistributor* (*&)())+0x21) [0x74fdd58a6bbe]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(std::__invoke_result<protocols::jd2::JobDistributor* (*&)()>::type std::__invoke<protocols::jd2::JobDistributor* (*&)()>(protocols::jd2::JobDistributor* (*&)())+0x24) [0x74fdd58a6201]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor* std::_Bind<protocols::jd2::JobDistributor* (*())()>::__call<protocols::jd2::JobDistributor*>(std::tuple<>&&, std::_Index_tuple<>)+0x20) [0x74fdd58a4e80]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor* std::_Bind<protocols::jd2::JobDistributor* (*())()>::operator()<, protocols::jd2::JobDistributor*>()+0x37) [0x74fdd58a423f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor* std::__invoke_impl<protocols::jd2::JobDistributor*, std::_Bind<protocols::jd2::JobDistributor* (*())()>&>(std::__invoke_other, std::_Bind<protocols::jd2::JobDistributor* (*())()>&)+0x24) [0x74fdd58a3760]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(std::enable_if<std::__and_<std::__not_<std::is_void<protocols::jd2::JobDistributor*> >, std::is_convertible<std::__invoke_result<std::_Bind<protocols::jd2::JobDistributor* (*())()>&>::type, protocols::jd2::JobDistributor*> >::value, protocols::jd2::JobDistributor*>::type std::__invoke_r<protocols::jd2::JobDistributor*, std::_Bind<protocols::jd2::JobDistributor* (*())()>&>(std::_Bind<protocols::jd2::JobDistributor* (*())()>&)+0x24) [0x74fdd58a27c3]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(std::_Function_handler<protocols::jd2::JobDistributor* (), std::_Bind<protocols::jd2::JobDistributor* (*())()> >::_M_invoke(std::_Any_data const&)+0x24) [0x74fdd58a1027]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(std::function<protocols::jd2::JobDistributor* ()>::operator()() const+0x36) [0x74fdd58a1100]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(void utility::thread::safely_create_singleton<protocols::jd2::JobDistributor>(std::function<protocols::jd2::JobDistributor* ()>, protocols::jd2::JobDistributor*&)+0x2c) [0x74fdd589f92d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::get_instance()+0x73) [0x74fdd589815f]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x11b41) [0x5d530e226b41]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x74fdd1829d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x74fdd1829e40]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x116c5) [0x5d530e2266c5]
+
+[END_BACKTRACE]
+
+[FILE]: src/protocols/jd2/MPIMultiCommJobDistributor.cc
+[LINE]: 66
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: cannot run with requested size of sub-partition
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+

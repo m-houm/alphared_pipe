@@ -1,0 +1,82 @@
+Stats for job: 1AK4_b_0001_001_00000340_00011
+level    1 temperature 0.80           HX_1_2 trials=      4 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00011
+level    2 temperature 1.50           HX_2_1 trials=      4 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=      5 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00011
+level    3 temperature 3.00           HX_3_2 trials=      5 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00012
+level    3 temperature 3.00           HX_3_2 trials=     10 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00012
+level    2 temperature 1.50           HX_2_1 trials=      9 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     10 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00012
+level    1 temperature 0.80           HX_1_2 trials=     10 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00013
+level    3 temperature 3.00           HX_3_2 trials=     15 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00013
+level    2 temperature 1.50           HX_2_1 trials=     14 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     15 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00013
+level    1 temperature 0.80           HX_1_2 trials=     17 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00014
+level    3 temperature 3.00           HX_3_2 trials=     19 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00014
+level    2 temperature 1.50           HX_2_1 trials=     19 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     19 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00015
+level    3 temperature 3.00           HX_3_2 trials=     23 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00015
+level    2 temperature 1.50           HX_2_1 trials=     23 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     24 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00014
+level    1 temperature 0.80           HX_1_2 trials=     24 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00016
+level    3 temperature 3.00           HX_3_2 trials=     29 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00016
+level    2 temperature 1.50           HX_2_1 trials=     28 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     29 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00015
+level    1 temperature 0.80           HX_1_2 trials=     29 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00017
+level    3 temperature 3.00           HX_3_2 trials=     34 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00017
+level    2 temperature 1.50           HX_2_1 trials=     33 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     34 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00016
+level    1 temperature 0.80           HX_1_2 trials=     34 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00018
+level    3 temperature 3.00           HX_3_2 trials=     39 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00018
+level    2 temperature 1.50           HX_2_1 trials=     38 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     39 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00017
+level    1 temperature 0.80           HX_1_2 trials=     39 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00019
+level    3 temperature 3.00           HX_3_2 trials=     44 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00019
+level    2 temperature 1.50           HX_2_1 trials=     43 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     44 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00018
+level    1 temperature 0.80           HX_1_2 trials=     44 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_000110
+level    2 temperature 1.50           HX_2_1 trials=     48 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     49 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_000110
+level    3 temperature 3.00           HX_3_2 trials=     49 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_00019
+level    1 temperature 0.80           HX_1_2 trials=     49 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_000111
+level    2 temperature 1.50           HX_2_1 trials=     53 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     54 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_000111
+level    3 temperature 3.00           HX_3_2 trials=     54 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_000110
+level    1 temperature 0.80           HX_1_2 trials=     54 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_0001
+level    1 temperature 0.80           HX_1_2 trials=     54 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_0001
+level    3 temperature 3.00           HX_3_2 trials=     54 NO ACCEPTS.
+Stats for job: 1AK4_b_0001_001_00000340_0001
+level    2 temperature 1.50           HX_2_1 trials=     54 NO ACCEPTS.
+level    2 temperature 1.50           HX_2_3 trials=     54 NO ACCEPTS.

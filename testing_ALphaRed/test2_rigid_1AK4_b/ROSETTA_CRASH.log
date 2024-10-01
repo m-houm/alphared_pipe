@@ -1,0 +1,486 @@
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.35.post.dev+5.main.200d5f9a7d
+[COMMIT_DATE]: 2024-09-11T17:31:36
+[APPLICATION]: /home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug
+[MODE]: Debug
+[EXTRAS]: mpi (OpenMPI 4.1.2) 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "11.4.0"
+[STDLIB]: libstdc++ version 20230528
+[START_OPTIONS]
+ -in:file:s=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -in:file:native=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -out:nstruct=1 -out:mute=all_high_mpi_rank_filebuf -out:level=300 -out:mpi_tracer_to_file=/home/mhoum/drive1/alphared/testing_ALphaRed/test2_rigid_1AK4_b/logs/log -out:file:scorefile=scores.fsc -out:file:silent=decoys.out -out:file:output_pose_cache_data=false -out:path:all=output/ -run:n_replica=3 -run:ignore_zero_occupancy=false -run:multiple_processes_writing_to_one_directory -run:intermediate_structures -parser:protocol=dock.xml -jd2:mpi_timeout_factor=0 -score:weights=muds_2021 -evaluation:DockMetrics -docking:partners=A_B -mh:score:use_ss1=false -mh:score:use_ss2=false -mh:score:use_aa1 -mh:score:use_aa2 -mh:path:scores_BB_BB=/home/mhoum/rosetta/database/additional_protocol_data/motif_dock/xh_16_
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(backtrace_string[abi:cxx11](int)+0x5a) [0x771c89e78ffa]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xb2) [0x771c89ede306]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::UtilityExitException::UtilityExitException(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x79) [0x771c89e7eff9]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::exit(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)+0x55) [0x771c89e7e76b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::fold_tree_from_loops(core::pose::Pose const&, protocols::loops::Loops const&, core::kinematics::FoldTree&, bool)+0x446) [0x771c766775dc]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::set_single_loop_fold_tree(core::pose::Pose&, protocols::loops::Loop const&)+0xb3) [0x771c76677e96]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::kinematic_closure::BalancedKicMover::apply(core::pose::Pose&)+0x514) [0x771c76617f74]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::canonical_sampling::MetropolisHastingsMover::apply(core::pose::Pose&)+0xb5) [0x771c762d075d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_mover(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&)+0x417) [0x771c8cdf48eb]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_step(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&, bool)+0x3f) [0x771c8cdf445d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::sequence_protocol(core::pose::Pose&, __gnu_debug::_Safe_iterator<__gnu_cxx::__normal_iterator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const*, std::__cxx1998::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> > >, std::__debug::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> >, std::random_access_iterator_tag>)+0x6a) [0x771c8cdf5982]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply(core::pose::Pose&)+0x6c3) [0x771c8cdeea0f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::run_one_job(std::shared_ptr<protocols::moves::Mover>&, long, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, unsigned long&, unsigned long&, bool)+0x1362) [0x771c8c89b028]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::go_main(std::shared_ptr<protocols::moves::Mover>)+0xe0) [0x771c8c898ed2]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIFileBufJobDistributor::go(std::shared_ptr<protocols::moves::Mover>)+0x1da) [0x771c8c8dc85a]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x11b6e) [0x5b809f1d8b6e]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x771c88829d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x771c88829e40]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x116c5) [0x5b809f1d86c5]
+
+[END_BACKTRACE]
+
+[FILE]: src/protocols/loops/loops_main.cc
+[LINE]: 264
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: Trying to make a loop that covers an entire chain. No anchor position possible!
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.35.post.dev+5.main.200d5f9a7d
+[COMMIT_DATE]: 2024-09-11T17:31:36
+[APPLICATION]: /home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug
+[MODE]: Debug
+[EXTRAS]: mpi (OpenMPI 4.1.2) 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "11.4.0"
+[STDLIB]: libstdc++ version 20230528
+[START_OPTIONS]
+ -in:file:s=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -in:file:native=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -out:nstruct=1 -out:mute=all_high_mpi_rank_filebuf -out:level=300 -out:mpi_tracer_to_file=/home/mhoum/drive1/alphared/testing_ALphaRed/test2_rigid_1AK4_b/logs/log -out:file:scorefile=scores.fsc -out:file:silent=decoys.out -out:file:output_pose_cache_data=false -out:path:all=output/ -run:n_replica=3 -run:ignore_zero_occupancy=false -run:multiple_processes_writing_to_one_directory -run:intermediate_structures -parser:protocol=dock.xml -jd2:mpi_timeout_factor=0 -score:weights=muds_2021 -evaluation:DockMetrics -docking:partners=A_B -mh:score:use_ss1=false -mh:score:use_ss2=false -mh:score:use_aa1 -mh:score:use_aa2 -mh:path:scores_BB_BB=/home/mhoum/rosetta/database/additional_protocol_data/motif_dock/xh_16_
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(backtrace_string[abi:cxx11](int)+0x5a) [0x7181bca78ffa]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xb2) [0x7181bcade306]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::UtilityExitException::UtilityExitException(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x79) [0x7181bca7eff9]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::exit(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)+0x55) [0x7181bca7e76b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::fold_tree_from_loops(core::pose::Pose const&, protocols::loops::Loops const&, core::kinematics::FoldTree&, bool)+0x446) [0x7181a92775dc]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::set_single_loop_fold_tree(core::pose::Pose&, protocols::loops::Loop const&)+0xb3) [0x7181a9277e96]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::kinematic_closure::BalancedKicMover::apply(core::pose::Pose&)+0x514) [0x7181a9217f74]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::canonical_sampling::MetropolisHastingsMover::apply(core::pose::Pose&)+0xb5) [0x7181a8ed075d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_mover(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&)+0x417) [0x7181bf9f48eb]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_step(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&, bool)+0x3f) [0x7181bf9f445d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::sequence_protocol(core::pose::Pose&, __gnu_debug::_Safe_iterator<__gnu_cxx::__normal_iterator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const*, std::__cxx1998::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> > >, std::__debug::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> >, std::random_access_iterator_tag>)+0x6a) [0x7181bf9f5982]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply(core::pose::Pose&)+0x6c3) [0x7181bf9eea0f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::run_one_job(std::shared_ptr<protocols::moves::Mover>&, long, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, unsigned long&, unsigned long&, bool)+0x1362) [0x7181bf49b028]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::go_main(std::shared_ptr<protocols::moves::Mover>)+0xe0) [0x7181bf498ed2]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIFileBufJobDistributor::go(std::shared_ptr<protocols::moves::Mover>)+0x1da) [0x7181bf4dc85a]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x11b6e) [0x5774d8c11b6e]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7181bb429d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7181bb429e40]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x116c5) [0x5774d8c116c5]
+
+[END_BACKTRACE]
+
+[FILE]: src/protocols/loops/loops_main.cc
+[LINE]: 264
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: Trying to make a loop that covers an entire chain. No anchor position possible!
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.35.post.dev+5.main.200d5f9a7d
+[COMMIT_DATE]: 2024-09-11T17:31:36
+[APPLICATION]: /home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug
+[MODE]: Debug
+[EXTRAS]: mpi (OpenMPI 4.1.2) 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "11.4.0"
+[STDLIB]: libstdc++ version 20230528
+[START_OPTIONS]
+ -in:file:s=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -in:file:native=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -out:nstruct=1 -out:mute=all_high_mpi_rank_filebuf -out:level=300 -out:mpi_tracer_to_file=/home/mhoum/drive1/alphared/testing_ALphaRed/test2_rigid_1AK4_b/logs/log -out:file:scorefile=scores.fsc -out:file:silent=decoys.out -out:file:output_pose_cache_data=false -out:path:all=output/ -run:n_replica=3 -run:ignore_zero_occupancy=false -run:multiple_processes_writing_to_one_directory -run:intermediate_structures -parser:protocol=dock.xml -jd2:mpi_timeout_factor=0 -score:weights=muds_2021 -evaluation:DockMetrics -docking:partners=A_B -mh:score:use_ss1=false -mh:score:use_ss2=false -mh:score:use_aa1 -mh:score:use_aa2 -mh:path:scores_BB_BB=/home/mhoum/rosetta/database/additional_protocol_data/motif_dock/xh_16_
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(backtrace_string[abi:cxx11](int)+0x5a) [0x7e4943278ffa]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xb2) [0x7e49432de306]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::UtilityExitException::UtilityExitException(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x79) [0x7e494327eff9]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::exit(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)+0x55) [0x7e494327e76b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::fold_tree_from_loops(core::pose::Pose const&, protocols::loops::Loops const&, core::kinematics::FoldTree&, bool)+0x446) [0x7e492fa775dc]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::set_single_loop_fold_tree(core::pose::Pose&, protocols::loops::Loop const&)+0xb3) [0x7e492fa77e96]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::kinematic_closure::BalancedKicMover::apply(core::pose::Pose&)+0x514) [0x7e492fa17f74]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::canonical_sampling::MetropolisHastingsMover::apply(core::pose::Pose&)+0xb5) [0x7e492f6d075d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_mover(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&)+0x417) [0x7e49461f48eb]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_step(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&, bool)+0x3f) [0x7e49461f445d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::sequence_protocol(core::pose::Pose&, __gnu_debug::_Safe_iterator<__gnu_cxx::__normal_iterator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const*, std::__cxx1998::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> > >, std::__debug::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> >, std::random_access_iterator_tag>)+0x6a) [0x7e49461f5982]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply(core::pose::Pose&)+0x6c3) [0x7e49461eea0f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::run_one_job(std::shared_ptr<protocols::moves::Mover>&, long, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, unsigned long&, unsigned long&, bool)+0x1362) [0x7e4945c9b028]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::go_main(std::shared_ptr<protocols::moves::Mover>)+0xe0) [0x7e4945c98ed2]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIFileBufJobDistributor::go(std::shared_ptr<protocols::moves::Mover>)+0x1da) [0x7e4945cdc85a]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x11b6e) [0x57b5cc7a6b6e]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7e4941c29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7e4941c29e40]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x116c5) [0x57b5cc7a66c5]
+
+[END_BACKTRACE]
+
+[FILE]: src/protocols/loops/loops_main.cc
+[LINE]: 264
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: Trying to make a loop that covers an entire chain. No anchor position possible!
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.35.post.dev+5.main.200d5f9a7d
+[COMMIT_DATE]: 2024-09-11T17:31:36
+[APPLICATION]: /home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug
+[MODE]: Debug
+[EXTRAS]: mpi (OpenMPI 4.1.2) 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "11.4.0"
+[STDLIB]: libstdc++ version 20230528
+[START_OPTIONS]
+ -in:file:s=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -in:file:native=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -out:nstruct=1 -out:mute=all_high_mpi_rank_filebuf -out:level=300 -out:mpi_tracer_to_file=/home/mhoum/drive1/alphared/testing_ALphaRed/test2_rigid_1AK4_b/logs/log -out:file:scorefile=scores.fsc -out:file:silent=decoys.out -out:file:output_pose_cache_data=false -out:path:all=output/ -run:n_replica=3 -run:ignore_zero_occupancy=false -run:multiple_processes_writing_to_one_directory -run:intermediate_structures -parser:protocol=dock.xml -jd2:mpi_timeout_factor=0 -score:weights=muds_2021 -evaluation:DockMetrics -docking:partners=A_B -mh:score:use_ss1=false -mh:score:use_ss2=false -mh:score:use_aa1 -mh:score:use_aa2 -mh:path:scores_BB_BB=/home/mhoum/rosetta/database/additional_protocol_data/motif_dock/xh_16_
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(backtrace_string[abi:cxx11](int)+0x5a) [0x741971a78ffa]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xb2) [0x741971ade306]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::UtilityExitException::UtilityExitException(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x79) [0x741971a7eff9]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::exit(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)+0x55) [0x741971a7e76b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::fold_tree_from_loops(core::pose::Pose const&, protocols::loops::Loops const&, core::kinematics::FoldTree&, bool)+0x446) [0x74195e2775dc]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::set_single_loop_fold_tree(core::pose::Pose&, protocols::loops::Loop const&)+0xb3) [0x74195e277e96]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::kinematic_closure::BalancedKicMover::apply(core::pose::Pose&)+0x514) [0x74195e217f74]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::canonical_sampling::MetropolisHastingsMover::apply(core::pose::Pose&)+0xb5) [0x74195ded075d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_mover(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&)+0x417) [0x7419749f48eb]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_step(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&, bool)+0x3f) [0x7419749f445d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::sequence_protocol(core::pose::Pose&, __gnu_debug::_Safe_iterator<__gnu_cxx::__normal_iterator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const*, std::__cxx1998::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> > >, std::__debug::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> >, std::random_access_iterator_tag>)+0x6a) [0x7419749f5982]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply(core::pose::Pose&)+0x6c3) [0x7419749eea0f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::run_one_job(std::shared_ptr<protocols::moves::Mover>&, long, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, unsigned long&, unsigned long&, bool)+0x1362) [0x74197449b028]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::go_main(std::shared_ptr<protocols::moves::Mover>)+0xe0) [0x741974498ed2]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIFileBufJobDistributor::go(std::shared_ptr<protocols::moves::Mover>)+0x1da) [0x7419744dc85a]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x11b6e) [0x576dde062b6e]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x741970429d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x741970429e40]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x116c5) [0x576dde0626c5]
+
+[END_BACKTRACE]
+
+[FILE]: src/protocols/loops/loops_main.cc
+[LINE]: 264
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: Trying to make a loop that covers an entire chain. No anchor position possible!
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.35.post.dev+5.main.200d5f9a7d
+[COMMIT_DATE]: 2024-09-11T17:31:36
+[APPLICATION]: /home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug
+[MODE]: Debug
+[EXTRAS]: mpi (OpenMPI 4.1.2) 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "11.4.0"
+[STDLIB]: libstdc++ version 20230528
+[START_OPTIONS]
+ -in:file:s=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -in:file:native=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -out:nstruct=1 -out:mute=all_high_mpi_rank_filebuf -out:level=300 -out:mpi_tracer_to_file=/home/mhoum/drive1/alphared/testing_ALphaRed/test2_rigid_1AK4_b/logs/log -out:file:scorefile=scores.fsc -out:file:silent=decoys.out -out:file:output_pose_cache_data=false -out:path:all=output/ -run:n_replica=3 -run:ignore_zero_occupancy=false -run:multiple_processes_writing_to_one_directory -run:intermediate_structures -parser:protocol=dock.xml -jd2:mpi_timeout_factor=0 -score:weights=muds_2021 -evaluation:DockMetrics -docking:partners=A_B -mh:score:use_ss1=false -mh:score:use_ss2=false -mh:score:use_aa1 -mh:score:use_aa2 -mh:path:scores_BB_BB=/home/mhoum/rosetta/database/additional_protocol_data/motif_dock/xh_16_
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(backtrace_string[abi:cxx11](int)+0x5a) [0x79f24ae78ffa]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xb2) [0x79f24aede306]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::UtilityExitException::UtilityExitException(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x79) [0x79f24ae7eff9]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::exit(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)+0x55) [0x79f24ae7e76b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::fold_tree_from_loops(core::pose::Pose const&, protocols::loops::Loops const&, core::kinematics::FoldTree&, bool)+0x446) [0x79f2376775dc]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::set_single_loop_fold_tree(core::pose::Pose&, protocols::loops::Loop const&)+0xb3) [0x79f237677e96]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::kinematic_closure::BalancedKicMover::apply(core::pose::Pose&)+0x514) [0x79f237617f74]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::canonical_sampling::MetropolisHastingsMover::apply(core::pose::Pose&)+0xb5) [0x79f2372d075d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_mover(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&)+0x417) [0x79f24ddf48eb]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_step(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&, bool)+0x3f) [0x79f24ddf445d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::sequence_protocol(core::pose::Pose&, __gnu_debug::_Safe_iterator<__gnu_cxx::__normal_iterator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const*, std::__cxx1998::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> > >, std::__debug::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> >, std::random_access_iterator_tag>)+0x6a) [0x79f24ddf5982]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply(core::pose::Pose&)+0x6c3) [0x79f24ddeea0f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::run_one_job(std::shared_ptr<protocols::moves::Mover>&, long, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, unsigned long&, unsigned long&, bool)+0x1362) [0x79f24d89b028]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::go_main(std::shared_ptr<protocols::moves::Mover>)+0xe0) [0x79f24d898ed2]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIFileBufJobDistributor::go(std::shared_ptr<protocols::moves::Mover>)+0x1da) [0x79f24d8dc85a]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x11b6e) [0x61f56aa7bb6e]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x79f249829d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x79f249829e40]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x116c5) [0x61f56aa7b6c5]
+
+[END_BACKTRACE]
+
+[FILE]: src/protocols/loops/loops_main.cc
+[LINE]: 264
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: Trying to make a loop that covers an entire chain. No anchor position possible!
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.35.post.dev+5.main.200d5f9a7d
+[COMMIT_DATE]: 2024-09-11T17:31:36
+[APPLICATION]: /home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug
+[MODE]: Debug
+[EXTRAS]: mpi (OpenMPI 4.1.2) 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "11.4.0"
+[STDLIB]: libstdc++ version 20230528
+[START_OPTIONS]
+ -in:file:s=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -in:file:native=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -out:nstruct=1 -out:mute=all_high_mpi_rank_filebuf -out:level=300 -out:mpi_tracer_to_file=/home/mhoum/drive1/alphared/testing_ALphaRed/test2_rigid_1AK4_b/logs/log -out:file:scorefile=scores.fsc -out:file:silent=decoys.out -out:file:output_pose_cache_data=false -out:path:all=output/ -run:n_replica=3 -run:ignore_zero_occupancy=false -run:multiple_processes_writing_to_one_directory -run:intermediate_structures -parser:protocol=dock.xml -jd2:mpi_timeout_factor=0 -score:weights=muds_2021 -evaluation:DockMetrics -docking:partners=A_B -mh:score:use_ss1=false -mh:score:use_ss2=false -mh:score:use_aa1 -mh:score:use_aa2 -mh:path:scores_BB_BB=/home/mhoum/rosetta/database/additional_protocol_data/motif_dock/xh_16_
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(backtrace_string[abi:cxx11](int)+0x5a) [0x7c8c6ee78ffa]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xb2) [0x7c8c6eede306]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::UtilityExitException::UtilityExitException(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x79) [0x7c8c6ee7eff9]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::exit(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)+0x55) [0x7c8c6ee7e76b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::fold_tree_from_loops(core::pose::Pose const&, protocols::loops::Loops const&, core::kinematics::FoldTree&, bool)+0x446) [0x7c8c5b6775dc]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::set_single_loop_fold_tree(core::pose::Pose&, protocols::loops::Loop const&)+0xb3) [0x7c8c5b677e96]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::kinematic_closure::BalancedKicMover::apply(core::pose::Pose&)+0x514) [0x7c8c5b617f74]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::canonical_sampling::MetropolisHastingsMover::apply(core::pose::Pose&)+0xb5) [0x7c8c5b2d075d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_mover(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&)+0x417) [0x7c8c71df48eb]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_step(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&, bool)+0x3f) [0x7c8c71df445d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::sequence_protocol(core::pose::Pose&, __gnu_debug::_Safe_iterator<__gnu_cxx::__normal_iterator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const*, std::__cxx1998::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> > >, std::__debug::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> >, std::random_access_iterator_tag>)+0x6a) [0x7c8c71df5982]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply(core::pose::Pose&)+0x6c3) [0x7c8c71deea0f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::run_one_job(std::shared_ptr<protocols::moves::Mover>&, long, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, unsigned long&, unsigned long&, bool)+0x1362) [0x7c8c7189b028]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::go_main(std::shared_ptr<protocols::moves::Mover>)+0xe0) [0x7c8c71898ed2]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIFileBufJobDistributor::go(std::shared_ptr<protocols::moves::Mover>)+0x1da) [0x7c8c718dc85a]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x11b6e) [0x5bb1b5368b6e]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7c8c6d829d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7c8c6d829e40]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x116c5) [0x5bb1b53686c5]
+
+[END_BACKTRACE]
+
+[FILE]: src/protocols/loops/loops_main.cc
+[LINE]: 264
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: Trying to make a loop that covers an entire chain. No anchor position possible!
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.35.post.dev+5.main.200d5f9a7d
+[COMMIT_DATE]: 2024-09-11T17:31:36
+[APPLICATION]: /home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug
+[MODE]: Debug
+[EXTRAS]: mpi (OpenMPI 4.1.2) 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "11.4.0"
+[STDLIB]: libstdc++ version 20230528
+[START_OPTIONS]
+ -in:file:s=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -in:file:native=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -out:nstruct=1 -out:mute=all_high_mpi_rank_filebuf -out:level=300 -out:mpi_tracer_to_file=/home/mhoum/drive1/alphared/testing_ALphaRed/test2_rigid_1AK4_b/logs/log -out:file:scorefile=scores.fsc -out:file:silent=decoys.out -out:file:output_pose_cache_data=false -out:path:all=output/ -run:n_replica=3 -run:ignore_zero_occupancy=false -run:multiple_processes_writing_to_one_directory -run:intermediate_structures -parser:protocol=dock.xml -jd2:mpi_timeout_factor=0 -score:weights=muds_2021 -evaluation:DockMetrics -docking:partners=A_B -mh:score:use_ss1=false -mh:score:use_ss2=false -mh:score:use_aa1 -mh:score:use_aa2 -mh:path:scores_BB_BB=/home/mhoum/rosetta/database/additional_protocol_data/motif_dock/xh_16_
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(backtrace_string[abi:cxx11](int)+0x5a) [0x7ecac9678ffa]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xb2) [0x7ecac96de306]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::UtilityExitException::UtilityExitException(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x79) [0x7ecac967eff9]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::exit(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)+0x55) [0x7ecac967e76b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::fold_tree_from_loops(core::pose::Pose const&, protocols::loops::Loops const&, core::kinematics::FoldTree&, bool)+0x446) [0x7ecab5e775dc]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::set_single_loop_fold_tree(core::pose::Pose&, protocols::loops::Loop const&)+0xb3) [0x7ecab5e77e96]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::kinematic_closure::BalancedKicMover::apply(core::pose::Pose&)+0x514) [0x7ecab5e17f74]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::canonical_sampling::MetropolisHastingsMover::apply(core::pose::Pose&)+0xb5) [0x7ecab5ad075d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_mover(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&)+0x417) [0x7ecacc5f48eb]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_step(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&, bool)+0x3f) [0x7ecacc5f445d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::sequence_protocol(core::pose::Pose&, __gnu_debug::_Safe_iterator<__gnu_cxx::__normal_iterator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const*, std::__cxx1998::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> > >, std::__debug::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> >, std::random_access_iterator_tag>)+0x6a) [0x7ecacc5f5982]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply(core::pose::Pose&)+0x6c3) [0x7ecacc5eea0f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::run_one_job(std::shared_ptr<protocols::moves::Mover>&, long, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, unsigned long&, unsigned long&, bool)+0x1362) [0x7ecacc09b028]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::go_main(std::shared_ptr<protocols::moves::Mover>)+0xe0) [0x7ecacc098ed2]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIFileBufJobDistributor::go(std::shared_ptr<protocols::moves::Mover>)+0x1da) [0x7ecacc0dc85a]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x11b6e) [0x616829a2bb6e]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7ecac8029d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7ecac8029e40]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x116c5) [0x616829a2b6c5]
+
+[END_BACKTRACE]
+
+[FILE]: src/protocols/loops/loops_main.cc
+[LINE]: 264
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: Trying to make a loop that covers an entire chain. No anchor position possible!
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.35.post.dev+5.main.200d5f9a7d
+[COMMIT_DATE]: 2024-09-11T17:31:36
+[APPLICATION]: /home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug
+[MODE]: Debug
+[EXTRAS]: mpi (OpenMPI 4.1.2) 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "11.4.0"
+[STDLIB]: libstdc++ version 20230528
+[START_OPTIONS]
+ -in:file:s=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -in:file:native=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -out:nstruct=1 -out:mute=all_high_mpi_rank_filebuf -out:level=300 -out:mpi_tracer_to_file=/home/mhoum/drive1/alphared/testing_ALphaRed/test2_rigid_1AK4_b/logs/log -out:file:scorefile=scores.fsc -out:file:silent=decoys.out -out:file:output_pose_cache_data=false -out:path:all=output/ -run:n_replica=3 -run:ignore_zero_occupancy=false -run:multiple_processes_writing_to_one_directory -run:intermediate_structures -parser:protocol=dock.xml -jd2:mpi_timeout_factor=0 -score:weights=muds_2021 -evaluation:DockMetrics -docking:partners=A_B -mh:score:use_ss1=false -mh:score:use_ss2=false -mh:score:use_aa1 -mh:score:use_aa2 -mh:path:scores_BB_BB=/home/mhoum/rosetta/database/additional_protocol_data/motif_dock/xh_16_
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(backtrace_string[abi:cxx11](int)+0x5a) [0x75daef878ffa]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xb2) [0x75daef8de306]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::UtilityExitException::UtilityExitException(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x79) [0x75daef87eff9]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::exit(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)+0x55) [0x75daef87e76b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::fold_tree_from_loops(core::pose::Pose const&, protocols::loops::Loops const&, core::kinematics::FoldTree&, bool)+0x446) [0x75dadc0775dc]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::set_single_loop_fold_tree(core::pose::Pose&, protocols::loops::Loop const&)+0xb3) [0x75dadc077e96]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::kinematic_closure::BalancedKicMover::apply(core::pose::Pose&)+0x514) [0x75dadc017f74]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::canonical_sampling::MetropolisHastingsMover::apply(core::pose::Pose&)+0xb5) [0x75dadbcd075d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_mover(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&)+0x417) [0x75daf27f48eb]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_step(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&, bool)+0x3f) [0x75daf27f445d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::sequence_protocol(core::pose::Pose&, __gnu_debug::_Safe_iterator<__gnu_cxx::__normal_iterator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const*, std::__cxx1998::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> > >, std::__debug::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> >, std::random_access_iterator_tag>)+0x6a) [0x75daf27f5982]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply(core::pose::Pose&)+0x6c3) [0x75daf27eea0f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::run_one_job(std::shared_ptr<protocols::moves::Mover>&, long, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, unsigned long&, unsigned long&, bool)+0x1362) [0x75daf229b028]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::go_main(std::shared_ptr<protocols::moves::Mover>)+0xe0) [0x75daf2298ed2]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIFileBufJobDistributor::go(std::shared_ptr<protocols::moves::Mover>)+0x1da) [0x75daf22dc85a]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x11b6e) [0x56eaaca1db6e]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x75daee229d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x75daee229e40]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x116c5) [0x56eaaca1d6c5]
+
+[END_BACKTRACE]
+
+[FILE]: src/protocols/loops/loops_main.cc
+[LINE]: 264
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: Trying to make a loop that covers an entire chain. No anchor position possible!
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.35.post.dev+5.main.200d5f9a7d
+[COMMIT_DATE]: 2024-09-11T17:31:36
+[APPLICATION]: /home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug
+[MODE]: Debug
+[EXTRAS]: mpi (OpenMPI 4.1.2) 
+[OS]: GNU/Linux
+[COMPILER]: GCC version "11.4.0"
+[STDLIB]: libstdc++ version 20230528
+[START_OPTIONS]
+ -in:file:s=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -in:file:native=/home/mhoum/drive1/alphared/AlphaRED/benchmark/rigid_targets/1AK4/1AK4_b.pdb -out:nstruct=1 -out:mute=all_high_mpi_rank_filebuf -out:level=300 -out:mpi_tracer_to_file=/home/mhoum/drive1/alphared/testing_ALphaRed/test2_rigid_1AK4_b/logs/log -out:file:scorefile=scores.fsc -out:file:silent=decoys.out -out:file:output_pose_cache_data=false -out:path:all=output/ -run:n_replica=3 -run:ignore_zero_occupancy=false -run:multiple_processes_writing_to_one_directory -run:intermediate_structures -parser:protocol=dock.xml -jd2:mpi_timeout_factor=0 -score:weights=muds_2021 -evaluation:DockMetrics -docking:partners=A_B -mh:score:use_ss1=false -mh:score:use_ss2=false -mh:score:use_aa1 -mh:score:use_aa2 -mh:path:scores_BB_BB=/home/mhoum/rosetta/database/additional_protocol_data/motif_dock/xh_16_
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(backtrace_string[abi:cxx11](int)+0x5a) [0x7bbdaaa78ffa]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::excn::Exception::Exception(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0xb2) [0x7bbdaaade306]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::UtilityExitException::UtilityExitException(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)+0x79) [0x7bbdaaa7eff9]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libutility.so(utility::exit(char const*, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)+0x55) [0x7bbdaaa7e76b]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::fold_tree_from_loops(core::pose::Pose const&, protocols::loops::Loops const&, core::kinematics::FoldTree&, bool)+0x446) [0x7bbd972775dc]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::loops::set_single_loop_fold_tree(core::pose::Pose&, protocols::loops::Loop const&)+0xb3) [0x7bbd97277e96]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::kinematic_closure::BalancedKicMover::apply(core::pose::Pose&)+0x514) [0x7bbd97217f74]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.3.so(protocols::canonical_sampling::MetropolisHastingsMover::apply(core::pose::Pose&)+0xb5) [0x7bbd96ed075d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_mover(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&)+0x417) [0x7bbdad9f48eb]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply_step(core::pose::Pose&, protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const&, bool)+0x3f) [0x7bbdad9f445d]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::sequence_protocol(core::pose::Pose&, __gnu_debug::_Safe_iterator<__gnu_cxx::__normal_iterator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep const*, std::__cxx1998::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> > >, std::__debug::vector<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep, std::allocator<protocols::rosetta_scripts::ParsedProtocol::ParsedProtocolStep> >, std::random_access_iterator_tag>)+0x6a) [0x7bbdad9f5982]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::rosetta_scripts::ParsedProtocol::apply(core::pose::Pose&)+0x6c3) [0x7bbdad9eea0f]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::run_one_job(std::shared_ptr<protocols::moves::Mover>&, long, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, unsigned long&, unsigned long&, bool)+0x1362) [0x7bbdad49b028]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::JobDistributor::go_main(std::shared_ptr<protocols::moves::Mover>)+0xe0) [0x7bbdad498ed2]
+/home/mhoum/rosetta/source/build/src/debug/linux/6.8/64/x86/gcc/11/mpi/libprotocols.1.so(protocols::jd2::MPIFileBufJobDistributor::go(std::shared_ptr<protocols::moves::Mover>)+0x1da) [0x7bbdad4dc85a]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x11b6e) [0x5e22cc4d6b6e]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7bbda9429d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7bbda9429e40]
+/home/mhoum/rosetta/source/bin/rosetta_scripts.mpi.linuxgccdebug(+0x116c5) [0x5e22cc4d66c5]
+
+[END_BACKTRACE]
+
+[FILE]: src/protocols/loops/loops_main.cc
+[LINE]: 264
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: Trying to make a loop that covers an entire chain. No anchor position possible!
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+

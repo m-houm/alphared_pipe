@@ -1,0 +1,619 @@
+Stats for job: 1AK4_b_00011
+level    2 temperature 1.50 RigidBodyPerturb trials=   1159;  accepts= 0.0906; 
+level    3 temperature 3.00 RigidBodyPerturb trials=   8841;  accepts= 0.3954; 
+Stats for job: 1AK4_b_00011
+level    1 temperature 0.80 RigidBodyPerturb trials=   4282;  accepts= 0.0049; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   5005;  accepts= 0.0024; 
+level    3 temperature 3.00 RigidBodyPerturb trials=    713;  accepts= 0.0224; 
+Stats for job: 1AK4_b_00011
+level    1 temperature 0.80 RigidBodyPerturb trials=   5994;  accepts= 0.0032; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   3006;  accepts= 0.0123; 
+level    3 temperature 3.00 RigidBodyPerturb trials=   1000;  accepts= 0.3000; 
+Stats for job: 1AK4_b_00012
+level    1 temperature 0.80 RigidBodyPerturb trials=   4282;  accepts= 0.0049; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   5005;  accepts= 0.0024; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  10713;  accepts= 0.4991; 
+Stats for job: 1AK4_b_00012
+level    1 temperature 0.80 RigidBodyPerturb trials=    984 NO ACCEPTS.
+level    2 temperature 1.50 RigidBodyPerturb trials=  10175;  accepts= 0.0140; 
+level    3 temperature 3.00 RigidBodyPerturb trials=   8841;  accepts= 0.3954; 
+Stats for job: 1AK4_b_00012
+level    1 temperature 0.80 RigidBodyPerturb trials=  13990;  accepts= 0.0016; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   5010;  accepts= 0.0074; 
+level    3 temperature 3.00 RigidBodyPerturb trials=   1000;  accepts= 0.3000; 
+Stats for job: 1AK4_b_00013
+level    1 temperature 0.80 RigidBodyPerturb trials=  10384;  accepts= 0.0020; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_00013
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  11177;  accepts= 0.0128; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  16667;  accepts= 0.2185; 
+Stats for job: 1AK4_b_00013
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  14130;  accepts= 0.0044; 
+level    3 temperature 3.00 RigidBodyPerturb trials=   1000;  accepts= 0.3000; 
+Stats for job: 1AK4_b_00014
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  11897;  accepts= 0.0120; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  25947;  accepts= 0.1446; 
+Stats for job: 1AK4_b_00014
+level    1 temperature 0.80 RigidBodyPerturb trials=  20384;  accepts= 0.0011; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_00014
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  20041;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials=   5089;  accepts= 0.1175; 
+Stats for job: 1AK4_b_00015
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  21897;  accepts= 0.0086; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  25947;  accepts= 0.1446; 
+Stats for job: 1AK4_b_00015
+level    1 temperature 0.80 RigidBodyPerturb trials=  30384;  accepts= 0.0009; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_00015
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  20041;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  15089;  accepts= 0.1025; 
+Stats for job: 1AK4_b_00016
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  31897;  accepts= 0.0060; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  25947;  accepts= 0.1446; 
+Stats for job: 1AK4_b_00016
+level    1 temperature 0.80 RigidBodyPerturb trials=  40384;  accepts= 0.0007; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_00016
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  20041;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  25089;  accepts= 0.1323; 
+Stats for job: 1AK4_b_00017
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  41897;  accepts= 0.0047; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  25947;  accepts= 0.1446; 
+Stats for job: 1AK4_b_00017
+level    1 temperature 0.80 RigidBodyPerturb trials=  50384;  accepts= 0.0006; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_00017
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  20041;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  35089;  accepts= 0.1456; 
+Stats for job: 1AK4_b_00018
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  51897;  accepts= 0.0044; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  25947;  accepts= 0.1446; 
+Stats for job: 1AK4_b_00018
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  20041;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  45089;  accepts= 0.2399; 
+Stats for job: 1AK4_b_00018
+level    1 temperature 0.80 RigidBodyPerturb trials=  60384;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_00019
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  61897;  accepts= 0.0042; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  25947;  accepts= 0.1446; 
+Stats for job: 1AK4_b_00019
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  20041;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  55089;  accepts= 0.2342; 
+Stats for job: 1AK4_b_00019
+level    1 temperature 0.80 RigidBodyPerturb trials=  70384;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000110
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  20041;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  65089;  accepts= 0.2922; 
+Stats for job: 1AK4_b_000110
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  71897;  accepts= 0.0036; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  25947;  accepts= 0.1446; 
+Stats for job: 1AK4_b_000110
+level    1 temperature 0.80 RigidBodyPerturb trials=  80384;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000111
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  21458;  accepts= 0.0033; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  73672;  accepts= 0.2931; 
+Stats for job: 1AK4_b_000111
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  79321;  accepts= 0.0036; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  28523;  accepts= 0.1387; 
+Stats for job: 1AK4_b_000111
+level    1 temperature 0.80 RigidBodyPerturb trials=  90384;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000112
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  79321;  accepts= 0.0036; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  38523;  accepts= 0.2399; 
+Stats for job: 1AK4_b_000112
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  31458;  accepts= 0.0029; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  73672;  accepts= 0.2931; 
+Stats for job: 1AK4_b_000112
+level    1 temperature 0.80 RigidBodyPerturb trials= 100384;  accepts= 0.0003; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000113
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  79321;  accepts= 0.0036; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  48523;  accepts= 0.2463; 
+Stats for job: 1AK4_b_000113
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  40081;  accepts= 0.0025; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  75049;  accepts= 0.2878; 
+Stats for job: 1AK4_b_000113
+level    1 temperature 0.80 RigidBodyPerturb trials= 110384;  accepts= 0.0003; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000114
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  88257;  accepts= 0.0035; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  49587;  accepts= 0.2415; 
+Stats for job: 1AK4_b_000114
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  40081;  accepts= 0.0025; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  85049;  accepts= 0.2602; 
+Stats for job: 1AK4_b_000114
+level    1 temperature 0.80 RigidBodyPerturb trials= 120384;  accepts= 0.0003; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000115
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93361;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  54483;  accepts= 0.2220; 
+Stats for job: 1AK4_b_000115
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  47890;  accepts= 0.0033; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  87240;  accepts= 0.2599; 
+Stats for job: 1AK4_b_000116
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93361;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  64483;  accepts= 0.3028; 
+Stats for job: 1AK4_b_000115
+level    1 temperature 0.80 RigidBodyPerturb trials= 130384;  accepts= 0.0003; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000116
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  57890;  accepts= 0.0036; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  87240;  accepts= 0.2599; 
+Stats for job: 1AK4_b_000117
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93361;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  74483;  accepts= 0.3163; 
+Stats for job: 1AK4_b_000116
+level    1 temperature 0.80 RigidBodyPerturb trials= 140384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000117
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  67890;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  87240;  accepts= 0.2599; 
+Stats for job: 1AK4_b_000118
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  95365;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  82479;  accepts= 0.2917; 
+Stats for job: 1AK4_b_000117
+level    1 temperature 0.80 RigidBodyPerturb trials= 150384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000118
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  71946;  accepts= 0.0044; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  93184;  accepts= 0.2458; 
+Stats for job: 1AK4_b_000119
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 101379;  accepts= 0.0035; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  86465;  accepts= 0.2801; 
+Stats for job: 1AK4_b_000118
+level    1 temperature 0.80 RigidBodyPerturb trials= 160384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000119
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  74173;  accepts= 0.0044; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 100957;  accepts= 0.2283; 
+Stats for job: 1AK4_b_000120
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 110910;  accepts= 0.0033; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  86934;  accepts= 0.2790; 
+Stats for job: 1AK4_b_000119
+level    1 temperature 0.80 RigidBodyPerturb trials= 170384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000120
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  78426;  accepts= 0.0043; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 106704;  accepts= 0.2171; 
+Stats for job: 1AK4_b_000121
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 113406;  accepts= 0.0033; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  94438;  accepts= 0.2619; 
+Stats for job: 1AK4_b_000120
+level    1 temperature 0.80 RigidBodyPerturb trials= 180384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000121
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  88202;  accepts= 0.0040; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 106928;  accepts= 0.2167; 
+Stats for job: 1AK4_b_000122
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 116053;  accepts= 0.0035; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 101791;  accepts= 0.2459; 
+Stats for job: 1AK4_b_000121
+level    1 temperature 0.80 RigidBodyPerturb trials= 190384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000122
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  92211;  accepts= 0.0040; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 112919;  accepts= 0.2070; 
+Stats for job: 1AK4_b_000123
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 121832;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 106012;  accepts= 0.2376; 
+Stats for job: 1AK4_b_000122
+level    1 temperature 0.80 RigidBodyPerturb trials= 200384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=   6006;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000123
+level    1 temperature 0.80 RigidBodyPerturb trials=  14870;  accepts= 0.0015; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  92211;  accepts= 0.0040; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 122919;  accepts= 0.1936; 
+Stats for job: 1AK4_b_000124
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 131832;  accepts= 0.0031; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 106012;  accepts= 0.2376; 
+Stats for job: 1AK4_b_000123
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  11006;  accepts= 0.0024; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000124
+level    1 temperature 0.80 RigidBodyPerturb trials=  20423;  accepts= 0.0014; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000125
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 133470;  accepts= 0.0031; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 114374;  accepts= 0.2500; 
+Stats for job: 1AK4_b_000126
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 133470;  accepts= 0.0031; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 124374;  accepts= 0.2663; 
+Stats for job: 1AK4_b_000124
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  21006;  accepts= 0.0022; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000125
+level    1 temperature 0.80 RigidBodyPerturb trials=  30423;  accepts= 0.0009; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000127
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 133470;  accepts= 0.0031; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 134374;  accepts= 0.3024; 
+Stats for job: 1AK4_b_000125
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  31006;  accepts= 0.0019; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000126
+level    1 temperature 0.80 RigidBodyPerturb trials=  40423;  accepts= 0.0007; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000128
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 133470;  accepts= 0.0031; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 144374;  accepts= 0.2902; 
+Stats for job: 1AK4_b_000126
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  41006;  accepts= 0.0014; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000127
+level    1 temperature 0.80 RigidBodyPerturb trials=  50423;  accepts= 0.0006; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000129
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 133470;  accepts= 0.0031; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 154374;  accepts= 0.2733; 
+Stats for job: 1AK4_b_000127
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  51006;  accepts= 0.0014; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000128
+level    1 temperature 0.80 RigidBodyPerturb trials=  60423;  accepts= 0.0006; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000130
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 133470;  accepts= 0.0031; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 164374;  accepts= 0.2804; 
+Stats for job: 1AK4_b_000128
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  61006;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000129
+level    1 temperature 0.80 RigidBodyPerturb trials=  70423;  accepts= 0.0006; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000131
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 133470;  accepts= 0.0031; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 174374;  accepts= 0.3139; 
+Stats for job: 1AK4_b_000129
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  71006;  accepts= 0.0018; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000132
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 133470;  accepts= 0.0031; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 184374;  accepts= 0.3263; 
+Stats for job: 1AK4_b_000130
+level    1 temperature 0.80 RigidBodyPerturb trials=  80423;  accepts= 0.0006; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000130
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  81006;  accepts= 0.0019; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000133
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 133470;  accepts= 0.0031; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 194374;  accepts= 0.3258; 
+Stats for job: 1AK4_b_000131
+level    1 temperature 0.80 RigidBodyPerturb trials=  90423;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000134
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 133470;  accepts= 0.0031; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 204374;  accepts= 0.3201; 
+Stats for job: 1AK4_b_000131
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  91006;  accepts= 0.0017; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000132
+level    1 temperature 0.80 RigidBodyPerturb trials= 100423;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000135
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 133470;  accepts= 0.0031; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 214374;  accepts= 0.3219; 
+Stats for job: 1AK4_b_000132
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 101006;  accepts= 0.0017; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  13610;  accepts= 0.4132; 
+Stats for job: 1AK4_b_000133
+level    1 temperature 0.80 RigidBodyPerturb trials= 110423;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000136
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 135311;  accepts= 0.0031; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 222533;  accepts= 0.3106; 
+Stats for job: 1AK4_b_000133
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 107107;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  17509;  accepts= 0.3257; 
+Stats for job: 1AK4_b_000134
+level    1 temperature 0.80 RigidBodyPerturb trials= 120423;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000137
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 145311;  accepts= 0.0029; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 222533;  accepts= 0.3106; 
+Stats for job: 1AK4_b_000134
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 107107;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  27509;  accepts= 0.2133; 
+Stats for job: 1AK4_b_000135
+level    1 temperature 0.80 RigidBodyPerturb trials= 130423;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000138
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 153360;  accepts= 0.0028; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 224484;  accepts= 0.3079; 
+Stats for job: 1AK4_b_000135
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 109109;  accepts= 0.0017; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  35507;  accepts= 0.1686; 
+Stats for job: 1AK4_b_000136
+level    1 temperature 0.80 RigidBodyPerturb trials= 140423;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000139
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 157405;  accepts= 0.0028; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 230439;  accepts= 0.3001; 
+Stats for job: 1AK4_b_000136
+level    1 temperature 0.80 RigidBodyPerturb trials= 205384;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 115115;  accepts= 0.0017; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  39501;  accepts= 0.1537; 
+Stats for job: 1AK4_b_000137
+level    1 temperature 0.80 RigidBodyPerturb trials= 150423;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  93235;  accepts= 0.0041; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 126342;  accepts= 0.1902; 
+Stats for job: 1AK4_b_000140
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 161526;  accepts= 0.0028; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 236318;  accepts= 0.2928; 
+Stats for job: 1AK4_b_000137
+level    1 temperature 0.80 RigidBodyPerturb trials= 207625;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 120120;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000138
+level    1 temperature 0.80 RigidBodyPerturb trials= 154210;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  96241;  accepts= 0.0040; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 129549;  accepts= 0.1859; 
+Stats for job: 1AK4_b_000141
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 169457;  accepts= 0.0027; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 238387;  accepts= 0.2903; 
+Stats for job: 1AK4_b_000138
+level    1 temperature 0.80 RigidBodyPerturb trials= 217625;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 120120;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000139
+level    1 temperature 0.80 RigidBodyPerturb trials= 154210;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  96241;  accepts= 0.0040; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 139549;  accepts= 0.1742; 
+Stats for job: 1AK4_b_000142
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 179457;  accepts= 0.0026; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 238387;  accepts= 0.2903; 
+Stats for job: 1AK4_b_000139
+level    1 temperature 0.80 RigidBodyPerturb trials= 227625;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 120120;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000140
+level    1 temperature 0.80 RigidBodyPerturb trials= 154210;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  96241;  accepts= 0.0040; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 149549;  accepts= 0.1633; 
+Stats for job: 1AK4_b_000143
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 189457;  accepts= 0.0025; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 238387;  accepts= 0.2903; 
+Stats for job: 1AK4_b_000140
+level    1 temperature 0.80 RigidBodyPerturb trials= 237625;  accepts= 0.0001; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 120120;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000141
+level    1 temperature 0.80 RigidBodyPerturb trials= 154210;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  96241;  accepts= 0.0040; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 159549;  accepts= 0.1543; 
+Stats for job: 1AK4_b_000144
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 199457;  accepts= 0.0024; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 238387;  accepts= 0.2903; 
+Stats for job: 1AK4_b_000141
+level    1 temperature 0.80 RigidBodyPerturb trials= 247625;  accepts= 0.0001; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 120120;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000142
+level    1 temperature 0.80 RigidBodyPerturb trials= 154210;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials=  99174;  accepts= 0.0040; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 166616;  accepts= 0.1484; 
+Stats for job: 1AK4_b_000145
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 205418;  accepts= 0.0024; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 242426;  accepts= 0.2856; 
+Stats for job: 1AK4_b_000142
+level    1 temperature 0.80 RigidBodyPerturb trials= 257625;  accepts= 0.0001; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 120120;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000143
+level    1 temperature 0.80 RigidBodyPerturb trials= 154210;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 100249;  accepts= 0.0040; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 175541;  accepts= 0.1415; 
+Stats for job: 1AK4_b_000146
+level    1 temperature 0.80 RigidBodyPerturb trials=   2156;  accepts= 0.0005; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 215418;  accepts= 0.0023; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 242426;  accepts= 0.2856; 
+Stats for job: 1AK4_b_000143
+level    1 temperature 0.80 RigidBodyPerturb trials= 267625;  accepts= 0.0001; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 120120;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000144
+level    1 temperature 0.80 RigidBodyPerturb trials= 154210;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 100249;  accepts= 0.0040; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 185541;  accepts= 0.1350; 
+Stats for job: 1AK4_b_000147
+level    1 temperature 0.80 RigidBodyPerturb trials=   4896;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 222678;  accepts= 0.0022; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 242426;  accepts= 0.2856; 
+Stats for job: 1AK4_b_000144
+level    1 temperature 0.80 RigidBodyPerturb trials= 274644;  accepts= 0.0001; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 123101;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000145
+level    1 temperature 0.80 RigidBodyPerturb trials= 154210;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 100249;  accepts= 0.0040; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 195541;  accepts= 0.1290; 
+Stats for job: 1AK4_b_000145
+level    1 temperature 0.80 RigidBodyPerturb trials= 283621;  accepts= 0.0001; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 124124;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000148
+level    1 temperature 0.80 RigidBodyPerturb trials=   6082;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 231492;  accepts= 0.0021; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 242426;  accepts= 0.2856; 
+Stats for job: 1AK4_b_000146
+level    1 temperature 0.80 RigidBodyPerturb trials= 154210;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 101257;  accepts= 0.0039; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 204533;  accepts= 0.1239; 
+Stats for job: 1AK4_b_000146
+level    1 temperature 0.80 RigidBodyPerturb trials= 293621;  accepts= 0.0001; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 124124;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000149
+level    1 temperature 0.80 RigidBodyPerturb trials=   6082;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 239454;  accepts= 0.0021; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 244464;  accepts= 0.2832; 
+Stats for job: 1AK4_b_000147
+level    1 temperature 0.80 RigidBodyPerturb trials= 154210;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 105318;  accepts= 0.0038; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 210472;  accepts= 0.1208; 
+Stats for job: 1AK4_b_000147
+level    1 temperature 0.80 RigidBodyPerturb trials= 303621;  accepts= 0.0001; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 124124;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000150
+level    1 temperature 0.80 RigidBodyPerturb trials=   6082;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 241717;  accepts= 0.0021; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 252201;  accepts= 0.2752; 
+Stats for job: 1AK4_b_000148
+level    1 temperature 0.80 RigidBodyPerturb trials= 154210;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 115318;  accepts= 0.0035; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 210472;  accepts= 0.1208; 
+Stats for job: 1AK4_b_000148
+level    1 temperature 0.80 RigidBodyPerturb trials= 313621;  accepts= 0.0001; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 124124;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000151
+level    1 temperature 0.80 RigidBodyPerturb trials=   6082;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 241717;  accepts= 0.0021; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 262201;  accepts= 0.2650; 
+Stats for job: 1AK4_b_000149
+level    1 temperature 0.80 RigidBodyPerturb trials= 156174;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 122301;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 211525;  accepts= 0.1204; 
+Stats for job: 1AK4_b_000149
+level    1 temperature 0.80 RigidBodyPerturb trials= 321619;  accepts= 0.0001; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 126126;  accepts= 0.0016; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_000152
+level    1 temperature 0.80 RigidBodyPerturb trials=   6441;  accepts= 0.0002; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 246727;  accepts= 0.0020; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 266832;  accepts= 0.2605; 
+Stats for job: 1AK4_b_000150
+level    1 temperature 0.80 RigidBodyPerturb trials= 156174;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 122301;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 221525;  accepts= 0.1158; 
+Stats for job: 1AK4_b_000150
+level    1 temperature 0.80 RigidBodyPerturb trials= 329617;  accepts= 0.0001; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 128128;  accepts= 0.0015; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_0001
+level    1 temperature 0.80 RigidBodyPerturb trials= 329617;  accepts= 0.0001; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 128128;  accepts= 0.0015; 
+level    3 temperature 3.00 RigidBodyPerturb trials=  42255;  accepts= 0.1441; 
+Stats for job: 1AK4_b_0001
+level    1 temperature 0.80 RigidBodyPerturb trials= 156174;  accepts= 0.0004; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 122301;  accepts= 0.0034; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 224932;  accepts= 0.1141; 
+Stats for job: 1AK4_b_0001
+level    1 temperature 0.80 RigidBodyPerturb trials=   8062;  accepts= 0.0001; 
+level    2 temperature 1.50 RigidBodyPerturb trials= 254134;  accepts= 0.0020; 
+level    3 temperature 3.00 RigidBodyPerturb trials= 266832;  accepts= 0.2605; 
